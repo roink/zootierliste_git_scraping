@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+*.swp
+.eggs/
+.build/
+dist/
+.cache/
+.venv/
+venv/
+.python-version
+pytest_cache/
+.coverage
+.coverage.*
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
