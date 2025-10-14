@@ -3,8 +3,8 @@ name: Git scrape Zootierliste
 on:
   workflow_dispatch:
   schedule:
-    # Every day at 02:17 UTC (avoid the top-of-hour surge)
-    - cron: "17 2 * * *"
+    # At 02:17 on Sunday and Wednesday.
+    - cron: "17 2 * * 0,3"
 
 permissions:
   contents: write   # needed to push commits with GITHUB_TOKEN
