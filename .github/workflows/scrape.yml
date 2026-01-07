@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # At 02:17 on Sunday and Wednesday.
-    - cron: "17 2 * * 0,3"
+    - cron: "17 2 * * *"
 
 permissions:
   contents: write   # needed to push commits with GITHUB_TOKEN
