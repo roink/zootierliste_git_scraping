@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 fetch_zoo_arts.py — fetch list of 'art' IDs for zoos from Zootierliste and
-write CSV files named <zoo_id>.csv with a single column: art
+write CSV files named <zoo_id>.csv with columns: art, klasse, ordnung, familie
 
 Modes:
   # 1) Single zoo:
@@ -26,10 +26,10 @@ from __future__ import annotations
 import argparse
 import csv
 import os
-import re
 import sys
 import time
-from typing import Iterable, List, Set
+from typing import Iterable, List, Tuple
+from urllib.parse import parse_qs, urlparse
 
 import requests
 from requests.adapters import HTTPAdapter
@@ -62,27 +62,42 @@ def session_with_retries(max_retries: int) -> requests.Session:
     return s
 
 
-_ART_QS_RE = re.compile(r"(?:^|[?&])art=(\d+)(?:&|$)")
+def _parse_int_param(params: dict[str, list[str]], key: str) -> int | None:
+    values = params.get(key)
+    if not values:
+        return None
+    try:
+        return int(values[0])
+    except ValueError:
+        return None
 
 
-def extract_art_ids_from_html(html_text: str) -> List[int]:
-    """Parse HTML, find all <a href="...&art=####">, return sorted unique ints."""
+def extract_art_rows_from_html(html_text: str) -> List[Tuple[int, int, int, int]]:
+    """Parse HTML, find all <a href="...&art=####">, return sorted unique rows."""
     soup = BeautifulSoup(html_text, "html.parser")
-    arts: Set[int] = set()
+    rows: dict[int, Tuple[int, int, int]] = {}
     for a in soup.find_all("a", href=True):  # finding links with href
-        m = _ART_QS_RE.search(a["href"])
-        if m:
-            arts.add(int(m.group(1)))
-    return sorted(arts)
+        href = a["href"]
+        if "art=" not in href:
+            continue
+        params = parse_qs(urlparse(href).query)
+        art = _parse_int_param(params, "art")
+        klasse = _parse_int_param(params, "klasse")
+        ordnung = _parse_int_param(params, "ordnung")
+        familie = _parse_int_param(params, "familie")
+        if art is None or klasse is None or ordnung is None or familie is None:
+            continue
+        rows[art] = (klasse, ordnung, familie)
+    return [(art, *rows[art]) for art in sorted(rows)]
 
 
-def fetch_art_ids_for_zoo(
+def fetch_art_rows_for_zoo(
     sess: requests.Session,
     zoo_id: int,
     haltung: int,
     timeout: tuple[float, float],
-) -> List[int]:
-    """POST to ajax.php to get holdings HTML, extract 'art' IDs."""
+) -> List[Tuple[int, int, int, int]]:
+    """POST to ajax.php to get holdings HTML, extract art rows."""
     data = {
         "id": str(zoo_id),
         "haltung": str(haltung),         # 0 current, 1 former
@@ -92,7 +107,7 @@ def fetch_art_ids_for_zoo(
     }
     r = sess.post(AJAX_URL, data=data, headers=AJAX_HEADERS, timeout=timeout)
     r.raise_for_status()
-    return extract_art_ids_from_html(r.text.lstrip("\ufeff"))
+    return extract_art_rows_from_html(r.text.lstrip("\ufeff"))
 
 
 def read_zoo_ids_from_locations(path: str) -> List[int]:
@@ -113,15 +128,15 @@ def read_zoo_ids_from_locations(path: str) -> List[int]:
     return ids
 
 
-def write_art_csv(out_dir: str, zoo_id: int, arts: Iterable[int]) -> str:
-    """Write <out_dir>/<zoo_id>.csv with one column 'art'."""
+def write_art_csv(out_dir: str, zoo_id: int, rows: Iterable[tuple[int, int, int, int]]) -> str:
+    """Write <out_dir>/<zoo_id>.csv with columns art/klasse/ordnung/familie."""
     os.makedirs(out_dir, exist_ok=True)
     path = os.path.join(out_dir, f"{zoo_id}.csv")
     with open(path, "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
-        w.writerow(["art"])
-        for a in arts:
-            w.writerow([a])
+        w.writerow(["art", "klasse", "ordnung", "familie"])
+        for art, klasse, ordnung, familie in rows:
+            w.writerow([art, klasse, ordnung, familie])
     return path
 
 
@@ -137,9 +152,9 @@ def run_for_ids(
     count = 0
     for zoo_id in ids:
         try:
-            arts = fetch_art_ids_for_zoo(sess, zoo_id, haltung, timeout)
-            path = write_art_csv(out_dir, zoo_id, arts)
-            print(f"[OK] {zoo_id}: {len(arts)} arts → {path}")
+            rows = fetch_art_rows_for_zoo(sess, zoo_id, haltung, timeout)
+            path = write_art_csv(out_dir, zoo_id, rows)
+            print(f"[OK] {zoo_id}: {len(rows)} arts → {path}")
             
         except requests.HTTPError as e:
             print(f"[HTTP] {zoo_id}: {e}", file=sys.stderr)
@@ -151,7 +166,12 @@ def run_for_ids(
 
 
 def main() -> int:
-    ap = argparse.ArgumentParser(description="Fetch Zootierliste 'art' IDs per zoo and write per-zoo CSV files.")
+    ap = argparse.ArgumentParser(
+        description=(
+            "Fetch Zootierliste 'art' IDs per zoo and write per-zoo CSV files "
+            "with art/klasse/ordnung/familie columns."
+        )
+    )
     g = ap.add_mutually_exclusive_group(required=True)
     g.add_argument("--zoo-id", type=int, help="Fetch a single zoo by ID")
     g.add_argument("--locations", metavar="CSV", help="CSV with a 'zoo_id' column (e.g., zoo_locations.csv)")
@@ -193,4 +213,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-
