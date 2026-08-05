@@ -3,7 +3,7 @@ name: Git scrape Zootierliste
 on:
   workflow_dispatch:
   schedule:
-    # At 02:17 on Sunday and Wednesday.
+    # At 02:17 every day
     - cron: "17 2 * * *"
 
 permissions:
@@ -12,6 +12,7 @@ permissions:
 concurrency:
   group: git-scrape-zootierliste
   cancel-in-progress: false
+  queue: max
 
 jobs:
   scrape:
@@ -35,10 +36,10 @@ jobs:
           pip install -r requirements.txt
 
       # Keep zoo_locations.csv fresh
-      - name: Refresh zoo_locations.csv (optional)
+      - name: Refresh zoo_locations.csv
         run: python zoo_locations.py --out zoo_locations.csv
 
-      - name: Ensure holdings/ exists
+      - name: Ensure holdings directory exists
         run: mkdir -p holdings
 
       - name: Fetch arts for zoos
