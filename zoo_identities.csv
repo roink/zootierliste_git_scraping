@@ -5430,7 +5430,7 @@ zoo_id,zoo_name,country
 10006041,Hyden (Wave Rock Wildlife Park),Australien
 10006042,Ipswich (Nature Centre),Australien
 10006043,Kaniva (Wetlands & Fauna Park),Australien
-10006044,Knowrow (Byron Bay Wildlife Sanctuary),Australien
+10006044,Knockrow (Byron Bay Wildlife Sanctuary - vormals Macadamia Castle),Australien
 10006045,Kuranda (Australian Butterfly Sanctuary),Australien
 10006046,Kuranda (Batreach Bat Rescue & Rehabilitation),Australien
 10006047,Kuranda (Birdworld),Australien
@@ -9582,7 +9582,7 @@ zoo_id,zoo_name,country
 10010453,Bangkok (The Zookeeper Thailand),Thailand
 10010454,Foz do Iguaçu (AquaFoz),Brasilien
 10010455,Campo Grande (Bioparque Pantanal),Brasilien
-10010456,Ashgabat (National Museum of Wildlife of Turkmenistan),Turkmenistan
+10010456,Arkadag (National Museum of Wildlife of Turkmenistan),Turkmenistan
 10010457,St Thomas (Connors Farms Petting Zoo),Vereinigte Staaten von Amerika/Amerikanische Jungferninseln
 10010458,St Thomas (Plantation Crown and Hawk Botanical Garden),Vereinigte Staaten von Amerika/Amerikanische Jungferninseln
 10010459,St Thomas (Phantasea Tropical Botanical Garden),Vereinigte Staaten von Amerika/Amerikanische Jungferninseln
@@ -9930,3 +9930,95 @@ zoo_id,zoo_name,country
 10010812,Azumino (Alps Azumino National Government Park - Azumino School Aquarium),Japan
 10010813,Miyazaki (Oyodo River Study Center),Japan
 10010814,Osaka (Tempozan Anipa),Japan
+10010815,Saladillo (Aliwén - vormals Mini Zoo Saladillo),Argentinien
+10010816,Anna Bay (Oakfield Ranch Camel Rides),Australien
+10010817,Cedar Creek (EcoPark Fishing Park & Farm Stay),Australien
+10010818,Coolgardie (Camel Farm),Australien
+10010819,Bells Creek (QCamel),Australien
+10010820,Pine Mountain (The Llama Farm),Australien
+10010821,Mount Benson (Humpalicious Camel Farm),Australien
+10010822,Ottaba (Ottaba Llamas),Australien
+10010823,Yulara (Uluru Camel Tours),Australien
+10010824,Jid Al-Haj (Saar Mall Aquarium),Bahrain
+10010825,Baranovichi (Dipriz Animal Park),Belarus
+10010826,Beringen (TODI),Belgien
+10010827,Lida (Kontaktzoo ZooLand - geschlossen),Belarus
+10010828,Maya Centre (Ya'axkin Butterfly Farm),Belize
+10010829,San Antonio (Oxmul Butterfly Farm),Belize
+10010830,Seven Miles El Progresso (Green Hills Butterfly Ranch),Belize
+10010831,Bohicon (Lions et Palais du Roi Dakodonou),Benin
+10010832,Parakou (Hôtel Les Routiers - Mini-Zoo),Benin
+10010833,Anji (Bamboo Expo Garden),China
+10010834,Baotou (Labor Park Zoo),China
+10010835,Xiangning (Zoo),China
+10010836,Bobo-Dioulasso (Zoo),Burkina Faso
+10010837,Macau (MGM Macau Aquarium),China/Macau
+10010838,Klampenborg (Jægersborg Dyrehave),Dänemark
+10010839,Baltrum (Nationalpark-Haus),Deutschland
+10010840,Burgberg im Allgäu (Burgberger Tierparadies),Deutschland
+10010841,Engelskirchen (Balsamhof - Lamatrekking Oberberg),Deutschland
+10010842,Liberia (Hacienda Guachipelín),Costa Rica
+10010843,Quepos (Canopy Safari),Costa Rica
+10010844,Caluco (La Granjita Educativa Mi Pet Zoo),El Salvador
+10010845,Tallinn (Estonian Open Air Museum),Estland
+10010846,Rovaniemi (Santa’s Pets – vormals Elf’s Farm Yard),Finnland
+10010847,Athis (La Ferme aux Oiseaux Exotiques),Frankreich
+10010848,Le Lamentin (Ferme de Perrine),Frankreich/Martinique
+10010849,Bakau (Kachikally Museum and Crocodile Pool),Gambia
+10010850,Quartier d’Orléans (The Butterfly Farm – geschlossen 2017),Frankreich/Saint Martin
+10010851,Tbilisi (Fauna Land – geschlossen 2023),Georgien
+10010852,Cape Coast (Hans Cottage Botel),Ghana
+10010853,Efutu Mampong (Ostrich Farm),Ghana
+10010854,Kilkís (Sigmaland),Griechenland
+10010855,Mumbai (Marine Aqua Zoo Dadar - geschlossen 2024),Indien
+10010856,Etawah (Etawah Safari Park - vormals Lion Safari Etawah),Indien
+10010857,Gadag (Gadag Zoo),Indien
+10010858,Thekkady (Elephant Camp),Indien
+10010859,Thekkady (Kalpavanam Elephant Park),Indien
+10010860,Gyalshing (Sidkeong Tulku Bird Park),Indien
+10010861,Jaipur (Elefantastic),Indien
+10010862,Bhutaramanahatti (Kittur Rani Chennamma Zoological Park),Indien
+10010863,Mumbai (Taraporewala Aquarium - geschlossen 2020),Indien
+10010864,Antigua Guatemala (Antigua Exotic),Guatemala
+10010865,Esquipulas (Zoo Las Minas),Guatemala
+10010866,Tactic (Eco Centro Chamché),Guatemala
+10010867,Zacapa (Zoológico Zacapa Oficial - vormals Zoológico Privado de Oriente),Guatemala
+10010868,Copán Ruinas (Macaw Mountain Bird Park & Nature Reserve),Honduras
+10010869,Jutiapa (Rancho San Luis),Honduras
+10010870,Tegucigalpa (Mariposario Anartia Universitario UNAH),Honduras
+10010871,Thathar (Elephant Joy),Indien
+10010872,Kattoor (Elephant Training Camp Alleppey),Indien
+10010873,Ambikanagar (Phansoli Elephant Camp),Indien
+10010874,More (Safari Park More),Lettland
+10010875,Qaouzah (Ark of Peace – geschlossen 2024),Libanon
+10010876,Jeita (Lebanese Marine and Wildlife Museum),Libanon
+10010877,Bouknadel (Les Jardins Exotiques de Bouknadel),Marokko
+10010878,Bessabes (Natura Jungle Parc),Marokko
+10010879,Ouarzazate (Parc Zoologique – geschlossen 2022),Marokko
+10010880,Oujda (Royal Wing – geschlossen),Marokko
+10010881,Oulad Teima (Zoo Parc Villate Limoune),Marokko
+10010882,Ikorodu (Origin Gardens and Zoo),Nigeria
+10010883,Kaduna (Gamji Gate Zoo – geschlossen 2020),Nigeria
+10010884,Kamenjane (Mini Zoo Kamjan),Nordmazedonien
+10010885,Altos (Casa Víbora – geschlossen 2017),Paraguay
+10010886,Itacurubí del Rosario (Serpentario Guaraní),Paraguay
+10010887,San Bernardino (Proyecto Boa Serpentario SanBer),Paraguay
+10010888,San Cosme y Damián (Acuario Pira Renda),Paraguay
+10010889,Krakow (Magillo),Polen
+10010890,Ruda Śląska (Mini-Zoo Park Strzelnica),Polen
+10010891,Wychodne (Podlaska Toskania Mini Zoo),Polen
+10010892,Asan (Asan Ecological Insect Center),Südkorea
+10010893,Cheongju (Animal Village),Südkorea
+10010894,Chuncheon (Happy Meadow Ranch),Südkorea
+10010895,Chupungnyeong (Chupungnyeong Service Area Ecological Park),Südkorea
+10010896,Incheon (Incheon Butterfly Park),Südkorea
+10010897,Gimhae (Daedong Horse Ranch),Südkorea
+10010898,Paju (Safari Experience Theme Park - vormals Paju Heyri Reptile World),Südkorea
+10010899,Sangju (Namhae Healing Forest Town - vormals Namhae Butterfly Ecological Park),Südkorea
+10010900,Daejeon (Daecheong Dam Water Culture Center),Südkorea
+10010901,Suncheon (Suncheon Bay National Garden Children's Zoo),Südkorea
+10010902,Namyangju (Arachnopia - Jupil Spider Museum - geschlossen),Südkorea
+10010903,Wonju (Dreamland - geschlossen 2015),Südkorea
+10010904,Yeoju (Yeoju Insect Museum),Südkorea
+10010905,Seoul (POSCO Center Aquarium),Südkorea
+10010906,Seoul (POSCO Center Aquarium),SÜdkorea
