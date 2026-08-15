@@ -502637,6 +502637,2712 @@
       "ordnung": 528,
       "positive_evidence": {},
       "unmatched": []
+    },
+    "55015432": {
+      "art": 55015432,
+      "familie": 550066,
+      "fetched_at": "2026-08-15T14:40:08Z",
+      "holders": {
+        "10002805": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015437": {
+      "art": 55015437,
+      "familie": 52823,
+      "fetched_at": "2026-08-15T14:40:10Z",
+      "holders": {
+        "10010341": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 528,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015438": {
+      "art": 55015438,
+      "familie": 52823,
+      "fetched_at": "2026-08-15T14:40:11Z",
+      "holders": {
+        "10010341": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 528,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015439": {
+      "art": 55015439,
+      "familie": 52601,
+      "fetched_at": "2026-08-15T14:40:13Z",
+      "holders": {
+        "10006699": 0,
+        "10006704": 0,
+        "10010450": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 526,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015441": {
+      "art": 55015441,
+      "familie": 30338,
+      "fetched_at": "2026-08-15T14:40:15Z",
+      "holders": {},
+      "klasse": 3,
+      "missing_expected_zoo_ids": [
+        10010450
+      ],
+      "ordnung": 303,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015442": {
+      "art": 55015442,
+      "familie": 52823,
+      "fetched_at": "2026-08-15T14:40:16Z",
+      "holders": {
+        "10010341": 1
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 528,
+      "positive_evidence": {
+        "10010341": "Behind the scenes Quellen/Nachweise: - Visit 08/2025 (seen off show)"
+      },
+      "unmatched": []
+    },
+    "55015443": {
+      "art": 55015443,
+      "familie": 550075,
+      "fetched_at": "2026-08-15T14:40:18Z",
+      "holders": {
+        "10007739": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015444": {
+      "art": 55015444,
+      "familie": 52603,
+      "fetched_at": "2026-08-15T14:40:19Z",
+      "holders": {
+        "10003305": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 526,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015445": {
+      "art": 55015445,
+      "familie": 52603,
+      "fetched_at": "2026-08-15T14:40:21Z",
+      "holders": {
+        "10003305": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 526,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015446": {
+      "art": 55015446,
+      "familie": 52603,
+      "fetched_at": "2026-08-15T14:40:22Z",
+      "holders": {
+        "10003305": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 526,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015447": {
+      "art": 55015447,
+      "familie": 52601,
+      "fetched_at": "2026-08-15T14:40:24Z",
+      "holders": {
+        "10003305": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 526,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015448": {
+      "art": 55015448,
+      "familie": 52601,
+      "fetched_at": "2026-08-15T14:40:26Z",
+      "holders": {
+        "10003305": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 526,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015449": {
+      "art": 55015449,
+      "familie": 52601,
+      "fetched_at": "2026-08-15T14:40:28Z",
+      "holders": {
+        "10003305": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 526,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015450": {
+      "art": 55015450,
+      "familie": 52601,
+      "fetched_at": "2026-08-15T14:40:30Z",
+      "holders": {
+        "10003305": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 526,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015451": {
+      "art": 55015451,
+      "familie": 52601,
+      "fetched_at": "2026-08-15T14:40:32Z",
+      "holders": {
+        "10003305": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 526,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015452": {
+      "art": 55015452,
+      "familie": 52601,
+      "fetched_at": "2026-08-15T14:40:34Z",
+      "holders": {
+        "10003305": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 526,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015453": {
+      "art": 55015453,
+      "familie": 52601,
+      "fetched_at": "2026-08-15T14:40:36Z",
+      "holders": {
+        "10003305": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 526,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015454": {
+      "art": 55015454,
+      "familie": 52601,
+      "fetched_at": "2026-08-15T14:40:38Z",
+      "holders": {
+        "10003305": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 526,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015455": {
+      "art": 55015455,
+      "familie": 52601,
+      "fetched_at": "2026-08-15T14:40:40Z",
+      "holders": {
+        "10003305": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 526,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015456": {
+      "art": 55015456,
+      "familie": 52601,
+      "fetched_at": "2026-08-15T14:40:42Z",
+      "holders": {
+        "10003305": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 526,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015457": {
+      "art": 55015457,
+      "familie": 52601,
+      "fetched_at": "2026-08-15T14:40:44Z",
+      "holders": {
+        "10003305": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 526,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015459": {
+      "art": 55015459,
+      "familie": 11512,
+      "fetched_at": "2026-08-15T14:40:45Z",
+      "holders": {
+        "10007186": 0
+      },
+      "klasse": 1,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 115,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015467": {
+      "art": 55015467,
+      "familie": 40328,
+      "fetched_at": "2026-08-15T14:40:47Z",
+      "holders": {
+        "10007698": 0,
+        "10008157": 1
+      },
+      "klasse": 4,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 403,
+      "positive_evidence": {
+        "10008157": "Specifically working with the nominate species, Anaxyrus boreas boreas, called the \"Boreal Toad.\" Have been behind the scenes, but reported to go on exhibit Spring 2024. Quellen/Nachweise: - https://www.hoglezoo.org/protecting-the-boreal-toad/"
+      },
+      "unmatched": []
+    },
+    "55015468": {
+      "art": 55015468,
+      "familie": 40328,
+      "fetched_at": "2026-08-15T14:40:49Z",
+      "holders": {
+        "10007676": 0
+      },
+      "klasse": 4,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 403,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015469": {
+      "art": 55015469,
+      "familie": 23001,
+      "fetched_at": "2026-08-15T14:40:50Z",
+      "holders": {
+        "10007544": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 230,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015477": {
+      "art": 55015477,
+      "familie": 550023,
+      "fetched_at": "2026-08-15T14:40:52Z",
+      "holders": {
+        "10006252": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015480": {
+      "art": 55015480,
+      "familie": 550030,
+      "fetched_at": "2026-08-15T14:40:54Z",
+      "holders": {
+        "10006753": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015483": {
+      "art": 55015483,
+      "familie": 550119,
+      "fetched_at": "2026-08-15T14:40:55Z",
+      "holders": {
+        "10006699": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015484": {
+      "art": 55015484,
+      "familie": 52006,
+      "fetched_at": "2026-08-15T14:40:57Z",
+      "holders": {
+        "10006611": 0,
+        "10006699": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 520,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015485": {
+      "art": 55015485,
+      "familie": 52006,
+      "fetched_at": "2026-08-15T14:40:58Z",
+      "holders": {
+        "10006699": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 520,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015489": {
+      "art": 55015489,
+      "familie": 30318,
+      "fetched_at": "2026-08-15T14:41:00Z",
+      "holders": {
+        "10010583": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 303,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015490": {
+      "art": 55015490,
+      "familie": 550095,
+      "fetched_at": "2026-08-15T14:41:04Z",
+      "holders": {},
+      "klasse": 5,
+      "missing_expected_zoo_ids": [
+        10010571
+      ],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015491": {
+      "art": 55015491,
+      "familie": 40380,
+      "fetched_at": "2026-08-15T14:41:08Z",
+      "holders": {
+        "10007662": 0
+      },
+      "klasse": 4,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 403,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015495": {
+      "art": 55015495,
+      "familie": 30514,
+      "fetched_at": "2026-08-15T14:41:13Z",
+      "holders": {
+        "10006003": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 305,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015496": {
+      "art": 55015496,
+      "familie": 30528,
+      "fetched_at": "2026-08-15T14:41:15Z",
+      "holders": {
+        "10001347": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 305,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015497": {
+      "art": 55015497,
+      "familie": 30338,
+      "fetched_at": "2026-08-15T14:41:18Z",
+      "holders": {
+        "10000901": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 303,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015498": {
+      "art": 55015498,
+      "familie": 30338,
+      "fetched_at": "2026-08-15T14:41:20Z",
+      "holders": {
+        "10000901": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 303,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015499": {
+      "art": 55015499,
+      "familie": 30338,
+      "fetched_at": "2026-08-15T14:41:21Z",
+      "holders": {
+        "10000901": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 303,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015500": {
+      "art": 55015500,
+      "familie": 52823,
+      "fetched_at": "2026-08-15T14:41:22Z",
+      "holders": {
+        "10010136": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 528,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015501": {
+      "art": 55015501,
+      "familie": 550111,
+      "fetched_at": "2026-08-15T14:41:24Z",
+      "holders": {
+        "10007661": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015502": {
+      "art": 55015502,
+      "familie": 550021,
+      "fetched_at": "2026-08-15T14:41:26Z",
+      "holders": {
+        "10006638": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015503": {
+      "art": 55015503,
+      "familie": 52703,
+      "fetched_at": "2026-08-15T14:41:27Z",
+      "holders": {
+        "10002805": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 527,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015504": {
+      "art": 55015504,
+      "familie": 40334,
+      "fetched_at": "2026-08-15T14:41:29Z",
+      "holders": {
+        "10010343": 0
+      },
+      "klasse": 4,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 403,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015505": {
+      "art": 55015505,
+      "familie": 40328,
+      "fetched_at": "2026-08-15T14:41:30Z",
+      "holders": {
+        "10010343": 0
+      },
+      "klasse": 4,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 403,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015506": {
+      "art": 55015506,
+      "familie": 40340,
+      "fetched_at": "2026-08-15T14:41:33Z",
+      "holders": {
+        "10010343": 1
+      },
+      "klasse": 4,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 403,
+      "positive_evidence": {
+        "10010343": "Behind the scenes Quellen/Nachweise: - Visit 08/2025 (seen backstage)"
+      },
+      "unmatched": []
+    },
+    "55015507": {
+      "art": 55015507,
+      "familie": 40324,
+      "fetched_at": "2026-08-15T14:41:34Z",
+      "holders": {
+        "10010343": 1
+      },
+      "klasse": 4,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 403,
+      "positive_evidence": {
+        "10010343": "Behind the scenes Quellen/Nachweise: - Visit 08/2025 (seen backstage)"
+      },
+      "unmatched": []
+    },
+    "55015508": {
+      "art": 55015508,
+      "familie": 40324,
+      "fetched_at": "2026-08-15T14:41:36Z",
+      "holders": {
+        "10010343": 1
+      },
+      "klasse": 4,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 403,
+      "positive_evidence": {
+        "10010343": "Behind the scenes Quellen/Nachweise: - Visit 08/2025 (seen backstage)"
+      },
+      "unmatched": []
+    },
+    "55015509": {
+      "art": 55015509,
+      "familie": 40324,
+      "fetched_at": "2026-08-15T14:41:39Z",
+      "holders": {
+        "10010343": 1
+      },
+      "klasse": 4,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 403,
+      "positive_evidence": {
+        "10010343": "Behind the scenes Quellen/Nachweise: - Visit 08/2025 (seen backstage)"
+      },
+      "unmatched": []
+    },
+    "55015511": {
+      "art": 55015511,
+      "familie": 30524,
+      "fetched_at": "2026-08-15T14:41:40Z",
+      "holders": {
+        "10003183": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 305,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015513": {
+      "art": 55015513,
+      "familie": 52717,
+      "fetched_at": "2026-08-15T14:41:43Z",
+      "holders": {
+        "10007144": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 527,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015514": {
+      "art": 55015514,
+      "familie": 30513,
+      "fetched_at": "2026-08-15T14:41:45Z",
+      "holders": {
+        "10007144": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 305,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015515": {
+      "art": 55015515,
+      "familie": 11509,
+      "fetched_at": "2026-08-15T14:41:46Z",
+      "holders": {
+        "10007144": 0
+      },
+      "klasse": 1,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 115,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015516": {
+      "art": 55015516,
+      "familie": 11509,
+      "fetched_at": "2026-08-15T14:41:48Z",
+      "holders": {
+        "10007234": 0,
+        "10007250": 0
+      },
+      "klasse": 1,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 115,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015520": {
+      "art": 55015520,
+      "familie": 50702,
+      "fetched_at": "2026-08-15T14:41:49Z",
+      "holders": {
+        "10006563": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 507,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015521": {
+      "art": 55015521,
+      "familie": 55106,
+      "fetched_at": "2026-08-15T14:41:51Z",
+      "holders": {
+        "10007634": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 551,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015522": {
+      "art": 55015522,
+      "familie": 10812,
+      "fetched_at": "2026-08-15T14:41:52Z",
+      "holders": {
+        "10007137": 0
+      },
+      "klasse": 1,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 108,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015523": {
+      "art": 55015523,
+      "familie": 30301,
+      "fetched_at": "2026-08-15T14:41:55Z",
+      "holders": {
+        "10000360": 0,
+        "10009795": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 303,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015524": {
+      "art": 55015524,
+      "familie": 40382,
+      "fetched_at": "2026-08-15T14:41:56Z",
+      "holders": {
+        "10000313": 1
+      },
+      "klasse": 4,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 403,
+      "positive_evidence": {
+        "10000313": "seit 11/2024 -hinter den Kulissen Bestand 05/2026: 0,0,30 Quellen/Nachweise: - pers. Mitt. (E-Mail an ZTL v. 20.05.2026)"
+      },
+      "unmatched": []
+    },
+    "55015525": {
+      "art": 55015525,
+      "familie": 30506,
+      "fetched_at": "2026-08-15T14:41:58Z",
+      "holders": {
+        "10007826": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 305,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015526": {
+      "art": 55015526,
+      "familie": 30335,
+      "fetched_at": "2026-08-15T14:41:59Z",
+      "holders": {
+        "10010345": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 303,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015527": {
+      "art": 55015527,
+      "familie": 550009,
+      "fetched_at": "2026-08-15T14:42:01Z",
+      "holders": {
+        "10006367": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015528": {
+      "art": 55015528,
+      "familie": 24420,
+      "fetched_at": "2026-08-15T14:42:02Z",
+      "holders": {
+        "10009465": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 244,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015529": {
+      "art": 55015529,
+      "familie": 54103,
+      "fetched_at": "2026-08-15T14:42:05Z",
+      "holders": {
+        "10006353": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 541,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015530": {
+      "art": 55015530,
+      "familie": 11512,
+      "fetched_at": "2026-08-15T14:42:07Z",
+      "holders": {
+        "10007138": 1,
+        "10009055": 0
+      },
+      "klasse": 1,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 115,
+      "positive_evidence": {
+        "10007138": "Confiscated in 2011 - Behind the scenes Quellen/Nachweise: - Visit 08/2025: 1.0 kept backstage"
+      },
+      "unmatched": []
+    },
+    "55015532": {
+      "art": 55015532,
+      "familie": 10213,
+      "fetched_at": "2026-08-15T14:42:11Z",
+      "holders": {
+        "10009465": 0
+      },
+      "klasse": 1,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 102,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015533": {
+      "art": 55015533,
+      "familie": 10205,
+      "fetched_at": "2026-08-15T14:42:14Z",
+      "holders": {
+        "10009465": 0
+      },
+      "klasse": 1,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 102,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015535": {
+      "art": 55015535,
+      "familie": 23501,
+      "fetched_at": "2026-08-15T14:42:18Z",
+      "holders": {
+        "10009465": 1
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 235,
+      "positive_evidence": {
+        "10009465": "Behind the scenes Quellen/Nachweise: - Besuch 04/2025 (gesehen, ausgeschildert) - Visit 07/2026 (seen backstage)"
+      },
+      "unmatched": []
+    },
+    "55015539": {
+      "art": 55015539,
+      "familie": 30316,
+      "fetched_at": "2026-08-15T14:42:21Z",
+      "holders": {
+        "10009465": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 303,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015540": {
+      "art": 55015540,
+      "familie": 40380,
+      "fetched_at": "2026-08-15T14:42:23Z",
+      "holders": {
+        "10009465": 1
+      },
+      "klasse": 4,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 403,
+      "positive_evidence": {
+        "10009465": "Breeding Behind the scenes Quellen/Nachweise: - Besuch 04/2025 (gesehen, ausgeschildert) - Visit 07/2026 (seen backstage)"
+      },
+      "unmatched": []
+    },
+    "55015541": {
+      "art": 55015541,
+      "familie": 40377,
+      "fetched_at": "2026-08-15T14:42:26Z",
+      "holders": {
+        "10009465": 1
+      },
+      "klasse": 4,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 403,
+      "positive_evidence": {
+        "10009465": "Behind the scenes Quellen/Nachweise: - Besuch 04/2025 (gesehen, ausgeschildert) - Visit 07/2026 (seen backstage)"
+      },
+      "unmatched": []
+    },
+    "55015544": {
+      "art": 55015544,
+      "familie": 40316,
+      "fetched_at": "2026-08-15T14:42:27Z",
+      "holders": {
+        "10006018": 1
+      },
+      "klasse": 4,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 403,
+      "positive_evidence": {
+        "10006018": "Behind the scenes breeding & reintroduction programme Quellen/Nachweise: - 08/2026"
+      },
+      "unmatched": []
+    },
+    "55015545": {
+      "art": 55015545,
+      "familie": 250032,
+      "fetched_at": "2026-08-15T14:42:29Z",
+      "holders": {
+        "10006018": 1
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 250,
+      "positive_evidence": {
+        "10006018": "Behind the scenes breeding & reintroduction programme Quellen/Nachweise: - 05/2026"
+      },
+      "unmatched": []
+    },
+    "55015546": {
+      "art": 55015546,
+      "familie": 40334,
+      "fetched_at": "2026-08-15T14:42:30Z",
+      "holders": {
+        "10007141": 0
+      },
+      "klasse": 4,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 403,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015547": {
+      "art": 55015547,
+      "familie": 40325,
+      "fetched_at": "2026-08-15T14:42:32Z",
+      "holders": {
+        "10007141": 0
+      },
+      "klasse": 4,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 403,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015548": {
+      "art": 55015548,
+      "familie": 40340,
+      "fetched_at": "2026-08-15T14:42:33Z",
+      "holders": {
+        "10007141": 1
+      },
+      "klasse": 4,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 403,
+      "positive_evidence": {
+        "10007141": "Behind the scenes Quellen/Nachweise: - Visit 08/2025 (seen backstage)"
+      },
+      "unmatched": []
+    },
+    "55015549": {
+      "art": 55015549,
+      "familie": 550002,
+      "fetched_at": "2026-08-15T14:42:35Z",
+      "holders": {
+        "10005990": 0,
+        "10006003": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015550": {
+      "art": 55015550,
+      "familie": 30316,
+      "fetched_at": "2026-08-15T14:42:37Z",
+      "holders": {
+        "10006003": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 303,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015551": {
+      "art": 55015551,
+      "familie": 30344,
+      "fetched_at": "2026-08-15T14:42:38Z",
+      "holders": {
+        "10006003": 0,
+        "10006021": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 303,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015552": {
+      "art": 55015552,
+      "familie": 30344,
+      "fetched_at": "2026-08-15T14:42:41Z",
+      "holders": {
+        "10006003": 0,
+        "10006021": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 303,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015553": {
+      "art": 55015553,
+      "familie": 30341,
+      "fetched_at": "2026-08-15T14:42:42Z",
+      "holders": {
+        "10001016": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 303,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015554": {
+      "art": 55015554,
+      "familie": 23504,
+      "fetched_at": "2026-08-15T14:42:44Z",
+      "holders": {
+        "10008803": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 235,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015555": {
+      "art": 55015555,
+      "familie": 23502,
+      "fetched_at": "2026-08-15T14:42:47Z",
+      "holders": {
+        "10008803": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 235,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015558": {
+      "art": 55015558,
+      "familie": 24303,
+      "fetched_at": "2026-08-15T14:42:49Z",
+      "holders": {
+        "10007126": 0,
+        "10007129": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 243,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015559": {
+      "art": 55015559,
+      "familie": 24303,
+      "fetched_at": "2026-08-15T14:42:51Z",
+      "holders": {
+        "10007186": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 243,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015560": {
+      "art": 55015560,
+      "familie": 22003,
+      "fetched_at": "2026-08-15T14:42:52Z",
+      "holders": {
+        "10007126": 0,
+        "10007143": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 220,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015561": {
+      "art": 55015561,
+      "familie": 250135,
+      "fetched_at": "2026-08-15T14:42:54Z",
+      "holders": {
+        "10009612": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 250,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015562": {
+      "art": 55015562,
+      "familie": 250031,
+      "fetched_at": "2026-08-15T14:42:55Z",
+      "holders": {
+        "10006363": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 250,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015566": {
+      "art": 55015566,
+      "familie": 52601,
+      "fetched_at": "2026-08-15T14:42:58Z",
+      "holders": {
+        "10002250": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 526,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015567": {
+      "art": 55015567,
+      "familie": 52601,
+      "fetched_at": "2026-08-15T14:43:00Z",
+      "holders": {
+        "10002250": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 526,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015568": {
+      "art": 55015568,
+      "familie": 52601,
+      "fetched_at": "2026-08-15T14:43:02Z",
+      "holders": {
+        "10002250": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 526,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015570": {
+      "art": 55015570,
+      "familie": 550010,
+      "fetched_at": "2026-08-15T14:43:04Z",
+      "holders": {
+        "10007937": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015571": {
+      "art": 55015571,
+      "familie": 53902,
+      "fetched_at": "2026-08-15T14:43:05Z",
+      "holders": {},
+      "klasse": 5,
+      "missing_expected_zoo_ids": [
+        10006496
+      ],
+      "ordnung": 539,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015574": {
+      "art": 55015574,
+      "familie": 40380,
+      "fetched_at": "2026-08-15T14:43:07Z",
+      "holders": {
+        "10010628": 0
+      },
+      "klasse": 4,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 403,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015575": {
+      "art": 55015575,
+      "familie": 12102,
+      "fetched_at": "2026-08-15T14:43:08Z",
+      "holders": {
+        "10007127": 0
+      },
+      "klasse": 1,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 121,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015578": {
+      "art": 55015578,
+      "familie": 250138,
+      "fetched_at": "2026-08-15T14:43:10Z",
+      "holders": {
+        "10000895": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 250,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015582": {
+      "art": 55015582,
+      "familie": 250129,
+      "fetched_at": "2026-08-15T14:43:12Z",
+      "holders": {
+        "10007126": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 250,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015585": {
+      "art": 55015585,
+      "familie": 24109,
+      "fetched_at": "2026-08-15T14:43:15Z",
+      "holders": {
+        "10007126": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 241,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015594": {
+      "art": 55015594,
+      "familie": 10213,
+      "fetched_at": "2026-08-15T14:43:17Z",
+      "holders": {
+        "10005990": 0
+      },
+      "klasse": 1,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 102,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015596": {
+      "art": 55015596,
+      "familie": 11101,
+      "fetched_at": "2026-08-15T14:43:21Z",
+      "holders": {
+        "10000158": 0,
+        "10000355": 0,
+        "10000446": 0,
+        "10005017": 0,
+        "10005038": 0
+      },
+      "klasse": 1,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 111,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015597": {
+      "art": 55015597,
+      "familie": 24407,
+      "fetched_at": "2026-08-15T14:43:24Z",
+      "holders": {
+        "10007126": 0,
+        "10007128": 0,
+        "10007144": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 244,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015599": {
+      "art": 55015599,
+      "familie": 250179,
+      "fetched_at": "2026-08-15T14:43:28Z",
+      "holders": {
+        "10007126": 0,
+        "10007127": 0,
+        "10007143": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 250,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015602": {
+      "art": 55015602,
+      "familie": 30320,
+      "fetched_at": "2026-08-15T14:43:29Z",
+      "holders": {
+        "10007698": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 303,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015603": {
+      "art": 55015603,
+      "familie": 52709,
+      "fetched_at": "2026-08-15T14:43:32Z",
+      "holders": {
+        "10000920": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 527,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015604": {
+      "art": 55015604,
+      "familie": 30324,
+      "fetched_at": "2026-08-15T14:43:33Z",
+      "holders": {
+        "10009795": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 303,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015605": {
+      "art": 55015605,
+      "familie": 11512,
+      "fetched_at": "2026-08-15T14:43:34Z",
+      "holders": {
+        "10008430": 0
+      },
+      "klasse": 1,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 115,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015614": {
+      "art": 55015614,
+      "familie": 52703,
+      "fetched_at": "2026-08-15T14:43:36Z",
+      "holders": {
+        "10000448": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 527,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015615": {
+      "art": 55015615,
+      "familie": 54305,
+      "fetched_at": "2026-08-15T14:43:37Z",
+      "holders": {
+        "10000448": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 543,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015622": {
+      "art": 55015622,
+      "familie": 12108,
+      "fetched_at": "2026-08-15T14:43:40Z",
+      "holders": {
+        "10006784": 0,
+        "10006787": 0
+      },
+      "klasse": 1,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 121,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015623": {
+      "art": 55015623,
+      "familie": 12110,
+      "fetched_at": "2026-08-15T14:43:41Z",
+      "holders": {
+        "10008818": 0
+      },
+      "klasse": 1,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 121,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015626": {
+      "art": 55015626,
+      "familie": 550119,
+      "fetched_at": "2026-08-15T14:43:44Z",
+      "holders": {
+        "10008430": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015636": {
+      "art": 55015636,
+      "familie": 550121,
+      "fetched_at": "2026-08-15T14:43:45Z",
+      "holders": {
+        "10008430": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015637": {
+      "art": 55015637,
+      "familie": 52603,
+      "fetched_at": "2026-08-15T14:43:47Z",
+      "holders": {
+        "10010344": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 526,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015643": {
+      "art": 55015643,
+      "familie": 30320,
+      "fetched_at": "2026-08-15T14:43:50Z",
+      "holders": {
+        "10009795": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 303,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015644": {
+      "art": 55015644,
+      "familie": 10201,
+      "fetched_at": "2026-08-15T14:43:51Z",
+      "holders": {
+        "10008452": 0
+      },
+      "klasse": 1,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 102,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015646": {
+      "art": 55015646,
+      "familie": 550072,
+      "fetched_at": "2026-08-15T14:43:54Z",
+      "holders": {
+        "10003723": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015647": {
+      "art": 55015647,
+      "familie": 23408,
+      "fetched_at": "2026-08-15T14:43:56Z",
+      "holders": {
+        "10008452": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 234,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015648": {
+      "art": 55015648,
+      "familie": 23408,
+      "fetched_at": "2026-08-15T14:43:57Z",
+      "holders": {
+        "10007144": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 234,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015649": {
+      "art": 55015649,
+      "familie": 23408,
+      "fetched_at": "2026-08-15T14:43:58Z",
+      "holders": {
+        "10006170": 0,
+        "10006171": 0,
+        "10006172": 0,
+        "10006178": 0,
+        "10006199": 0,
+        "10006202": 0,
+        "10006203": 0,
+        "10006211": 0,
+        "10009446": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [
+        10007246
+      ],
+      "ordnung": 234,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015650": {
+      "art": 55015650,
+      "familie": 23507,
+      "fetched_at": "2026-08-15T14:44:00Z",
+      "holders": {
+        "10008452": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 235,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015651": {
+      "art": 55015651,
+      "familie": 12102,
+      "fetched_at": "2026-08-15T14:44:02Z",
+      "holders": {
+        "10008452": 0
+      },
+      "klasse": 1,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 121,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015652": {
+      "art": 55015652,
+      "familie": 10901,
+      "fetched_at": "2026-08-15T14:44:05Z",
+      "holders": {
+        "10006976": 0,
+        "10008380": 0,
+        "10008381": 0,
+        "10008398": 0,
+        "10008412": 0,
+        "10008426": 0,
+        "10008452": 0,
+        "10008453": 0
+      },
+      "klasse": 1,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 109,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015653": {
+      "art": 55015653,
+      "familie": 10810,
+      "fetched_at": "2026-08-15T14:44:06Z",
+      "holders": {
+        "10008380": 0
+      },
+      "klasse": 1,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 108,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015654": {
+      "art": 55015654,
+      "familie": 23408,
+      "fetched_at": "2026-08-15T14:44:08Z",
+      "holders": {
+        "10008452": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 234,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015655": {
+      "art": 55015655,
+      "familie": 40325,
+      "fetched_at": "2026-08-15T14:44:09Z",
+      "holders": {
+        "10008380": 0
+      },
+      "klasse": 4,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 403,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015656": {
+      "art": 55015656,
+      "familie": 30326,
+      "fetched_at": "2026-08-15T14:44:10Z",
+      "holders": {
+        "10006081": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 303,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015657": {
+      "art": 55015657,
+      "familie": 21902,
+      "fetched_at": "2026-08-15T14:44:12Z",
+      "holders": {
+        "10000097": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 219,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015659": {
+      "art": 55015659,
+      "familie": 22003,
+      "fetched_at": "2026-08-15T14:44:15Z",
+      "holders": {
+        "10005979": 0,
+        "10006006": 0,
+        "10006023": 0,
+        "10006035": 0,
+        "10006042": 0,
+        "10006047": 0,
+        "10006068": 0,
+        "10006074": 0,
+        "10006081": 0,
+        "10006084": 0,
+        "10006087": 0,
+        "10006104": 0,
+        "10006115": 0,
+        "10006121": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 220,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015660": {
+      "art": 55015660,
+      "familie": 22003,
+      "fetched_at": "2026-08-15T14:44:17Z",
+      "holders": {
+        "10003216": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 220,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015663": {
+      "art": 55015663,
+      "familie": 10205,
+      "fetched_at": "2026-08-15T14:44:20Z",
+      "holders": {
+        "10006121": 0
+      },
+      "klasse": 1,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 102,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015666": {
+      "art": 55015666,
+      "familie": 40303,
+      "fetched_at": "2026-08-15T14:44:22Z",
+      "holders": {
+        "10000129": 0,
+        "10000355": 0,
+        "10000444": 0,
+        "10001474": 0,
+        "10002391": 0
+      },
+      "klasse": 4,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 403,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015667": {
+      "art": 55015667,
+      "familie": 60504,
+      "fetched_at": "2026-08-15T14:44:25Z",
+      "holders": {
+        "10007783": 0
+      },
+      "klasse": 6,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 605,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015668": {
+      "art": 55015668,
+      "familie": 60702,
+      "fetched_at": "2026-08-15T14:44:28Z",
+      "holders": {
+        "10007783": 0
+      },
+      "klasse": 6,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 607,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015690": {
+      "art": 55015690,
+      "familie": 30112,
+      "fetched_at": "2026-08-15T14:44:32Z",
+      "holders": {
+        "10006097": 1,
+        "10006107": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 301,
+      "positive_evidence": {
+        "10006097": "08/2026: 1.0 behind the scenes Quellen/Nachweise: - Visit 08/2026 (seen backstage)"
+      },
+      "unmatched": []
+    },
+    "55015694": {
+      "art": 55015694,
+      "familie": 30513,
+      "fetched_at": "2026-08-15T14:44:34Z",
+      "holders": {
+        "10006021": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 305,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015695": {
+      "art": 55015695,
+      "familie": 30344,
+      "fetched_at": "2026-08-15T14:44:36Z",
+      "holders": {
+        "10006021": 0,
+        "10006023": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 303,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015696": {
+      "art": 55015696,
+      "familie": 30324,
+      "fetched_at": "2026-08-15T14:44:37Z",
+      "holders": {
+        "10006021": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 303,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015697": {
+      "art": 55015697,
+      "familie": 250066,
+      "fetched_at": "2026-08-15T14:44:39Z",
+      "holders": {
+        "10005990": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 250,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015698": {
+      "art": 55015698,
+      "familie": 250060,
+      "fetched_at": "2026-08-15T14:44:40Z",
+      "holders": {
+        "10005990": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 250,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015699": {
+      "art": 55015699,
+      "familie": 550119,
+      "fetched_at": "2026-08-15T14:44:42Z",
+      "holders": {
+        "10005990": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015700": {
+      "art": 55015700,
+      "familie": 550118,
+      "fetched_at": "2026-08-15T14:44:44Z",
+      "holders": {
+        "10005990": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015701": {
+      "art": 55015701,
+      "familie": 550071,
+      "fetched_at": "2026-08-15T14:44:46Z",
+      "holders": {
+        "10005990": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015705": {
+      "art": 55015705,
+      "familie": 550152,
+      "fetched_at": "2026-08-15T14:44:49Z",
+      "holders": {
+        "10006586": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015706": {
+      "art": 55015706,
+      "familie": 30517,
+      "fetched_at": "2026-08-15T14:44:50Z",
+      "holders": {
+        "10009212": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 305,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015716": {
+      "art": 55015716,
+      "familie": 40210,
+      "fetched_at": "2026-08-15T14:44:53Z",
+      "holders": {
+        "10007698": 0
+      },
+      "klasse": 4,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 402,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015740": {
+      "art": 55015740,
+      "familie": 10608,
+      "fetched_at": "2026-08-15T14:44:54Z",
+      "holders": {
+        "10010632": 0
+      },
+      "klasse": 1,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 106,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015742": {
+      "art": 55015742,
+      "familie": 24109,
+      "fetched_at": "2026-08-15T14:44:56Z",
+      "holders": {
+        "10006179": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 241,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015756": {
+      "art": 55015756,
+      "familie": 11514,
+      "fetched_at": "2026-08-15T14:44:59Z",
+      "holders": {
+        "10006209": 0,
+        "10007175": 0,
+        "10007249": 0,
+        "10007286": 0
+      },
+      "klasse": 1,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 115,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015757": {
+      "art": 55015757,
+      "familie": 11514,
+      "fetched_at": "2026-08-15T14:45:00Z",
+      "holders": {
+        "10006866": 0,
+        "10007164": 0
+      },
+      "klasse": 1,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 115,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015759": {
+      "art": 55015759,
+      "familie": 550118,
+      "fetched_at": "2026-08-15T14:45:02Z",
+      "holders": {
+        "10006003": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015761": {
+      "art": 55015761,
+      "familie": 54403,
+      "fetched_at": "2026-08-15T14:45:03Z",
+      "holders": {
+        "10006003": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 544,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015770": {
+      "art": 55015770,
+      "familie": 21908,
+      "fetched_at": "2026-08-15T14:45:05Z",
+      "holders": {
+        "10007074": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 219,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015771": {
+      "art": 55015771,
+      "familie": 21908,
+      "fetched_at": "2026-08-15T14:45:08Z",
+      "holders": {
+        "10000097": 0,
+        "10000313": 0,
+        "10006358": 1,
+        "10006363": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 219,
+      "positive_evidence": {
+        "10006358": "-hinter den Kulissen Quellen/Nachweise: - TBL 01/2024 ---- - Visit 08/2024 (not seen, not signed)"
+      },
+      "unmatched": []
+    },
+    "55015774": {
+      "art": 55015774,
+      "familie": 24109,
+      "fetched_at": "2026-08-15T14:45:09Z",
+      "holders": {
+        "10006432": 0,
+        "10006549": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 241,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015775": {
+      "art": 55015775,
+      "familie": 10213,
+      "fetched_at": "2026-08-15T14:45:10Z",
+      "holders": {
+        "10009465": 0
+      },
+      "klasse": 1,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 102,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015777": {
+      "art": 55015777,
+      "familie": 24003,
+      "fetched_at": "2026-08-15T14:45:12Z",
+      "holders": {
+        "10009465": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 240,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015779": {
+      "art": 55015779,
+      "familie": 24003,
+      "fetched_at": "2026-08-15T14:45:13Z",
+      "holders": {
+        "10007074": 0,
+        "10009465": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 240,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015780": {
+      "art": 55015780,
+      "familie": 24003,
+      "fetched_at": "2026-08-15T14:45:15Z",
+      "holders": {
+        "10005990": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 240,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015781": {
+      "art": 55015781,
+      "familie": 22312,
+      "fetched_at": "2026-08-15T14:45:17Z",
+      "holders": {
+        "10007250": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [
+        10007247
+      ],
+      "ordnung": 223,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015785": {
+      "art": 55015785,
+      "familie": 24003,
+      "fetched_at": "2026-08-15T14:45:20Z",
+      "holders": {
+        "10009465": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 240,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015788": {
+      "art": 55015788,
+      "familie": 250061,
+      "fetched_at": "2026-08-15T14:45:22Z",
+      "holders": {
+        "10008349": 0,
+        "10009071": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 250,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015792": {
+      "art": 55015792,
+      "familie": 52303,
+      "fetched_at": "2026-08-15T14:45:25Z",
+      "holders": {
+        "10008086": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 523,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015814": {
+      "art": 55015814,
+      "familie": 30109,
+      "fetched_at": "2026-08-15T14:45:27Z",
+      "holders": {
+        "10003079": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 301,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015815": {
+      "art": 55015815,
+      "familie": 30106,
+      "fetched_at": "2026-08-15T14:45:29Z",
+      "holders": {
+        "10003079": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 301,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015816": {
+      "art": 55015816,
+      "familie": 550130,
+      "fetched_at": "2026-08-15T14:45:32Z",
+      "holders": {
+        "10006067": 0,
+        "10006102": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015818": {
+      "art": 55015818,
+      "familie": 40382,
+      "fetched_at": "2026-08-15T14:45:35Z",
+      "holders": {
+        "10000030": 0
+      },
+      "klasse": 4,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 403,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015819": {
+      "art": 55015819,
+      "familie": 534007,
+      "fetched_at": "2026-08-15T14:45:39Z",
+      "holders": {
+        "10006530": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 534,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015820": {
+      "art": 55015820,
+      "familie": 60702,
+      "fetched_at": "2026-08-15T14:45:40Z",
+      "holders": {
+        "10000804": 0
+      },
+      "klasse": 6,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 607,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015821": {
+      "art": 55015821,
+      "familie": 60702,
+      "fetched_at": "2026-08-15T14:45:42Z",
+      "holders": {
+        "10000804": 0
+      },
+      "klasse": 6,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 607,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015822": {
+      "art": 55015822,
+      "familie": 60702,
+      "fetched_at": "2026-08-15T14:45:44Z",
+      "holders": {
+        "10000804": 0
+      },
+      "klasse": 6,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 607,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015823": {
+      "art": 55015823,
+      "familie": 60702,
+      "fetched_at": "2026-08-15T14:45:45Z",
+      "holders": {
+        "10000804": 0
+      },
+      "klasse": 6,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 607,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015824": {
+      "art": 55015824,
+      "familie": 60702,
+      "fetched_at": "2026-08-15T14:45:47Z",
+      "holders": {
+        "10000804": 0
+      },
+      "klasse": 6,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 607,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015825": {
+      "art": 55015825,
+      "familie": 60702,
+      "fetched_at": "2026-08-15T14:45:49Z",
+      "holders": {
+        "10000804": 0
+      },
+      "klasse": 6,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 607,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015826": {
+      "art": 55015826,
+      "familie": 60702,
+      "fetched_at": "2026-08-15T14:45:52Z",
+      "holders": {
+        "10000804": 0
+      },
+      "klasse": 6,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 607,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015827": {
+      "art": 55015827,
+      "familie": 60702,
+      "fetched_at": "2026-08-15T14:45:53Z",
+      "holders": {
+        "10000804": 0
+      },
+      "klasse": 6,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 607,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015828": {
+      "art": 55015828,
+      "familie": 60702,
+      "fetched_at": "2026-08-15T14:45:56Z",
+      "holders": {
+        "10000804": 0
+      },
+      "klasse": 6,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 607,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015837": {
+      "art": 55015837,
+      "familie": 550009,
+      "fetched_at": "2026-08-15T14:45:58Z",
+      "holders": {
+        "10006102": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015838": {
+      "art": 55015838,
+      "familie": 550047,
+      "fetched_at": "2026-08-15T14:46:00Z",
+      "holders": {
+        "10006102": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015839": {
+      "art": 55015839,
+      "familie": 550130,
+      "fetched_at": "2026-08-15T14:46:01Z",
+      "holders": {
+        "10006102": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015840": {
+      "art": 55015840,
+      "familie": 54903,
+      "fetched_at": "2026-08-15T14:46:03Z",
+      "holders": {
+        "10006102": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 549,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015842": {
+      "art": 55015842,
+      "familie": 550055,
+      "fetched_at": "2026-08-15T14:46:04Z",
+      "holders": {
+        "10006058": 0,
+        "10006102": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [
+        10005981,
+        10006059
+      ],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015843": {
+      "art": 55015843,
+      "familie": 23506,
+      "fetched_at": "2026-08-15T14:46:07Z",
+      "holders": {
+        "10010656": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 235,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015844": {
+      "art": 55015844,
+      "familie": 40326,
+      "fetched_at": "2026-08-15T14:46:08Z",
+      "holders": {
+        "10006097": 0,
+        "10006103": 0,
+        "10010198": 0
+      },
+      "klasse": 4,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 403,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015845": {
+      "art": 55015845,
+      "familie": 40328,
+      "fetched_at": "2026-08-15T14:46:11Z",
+      "holders": {
+        "10010800": 0
+      },
+      "klasse": 4,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 403,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015846": {
+      "art": 55015846,
+      "familie": 53901,
+      "fetched_at": "2026-08-15T14:46:12Z",
+      "holders": {
+        "10000403": 1
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 539,
+      "positive_evidence": {
+        "10000403": "Quellen/Nachweise: - Besuch 06/2026 (gesehen, hinter den Kulissen)"
+      },
+      "unmatched": []
+    },
+    "55015849": {
+      "art": 55015849,
+      "familie": 550072,
+      "fetched_at": "2026-08-15T14:46:14Z",
+      "holders": {
+        "10000403": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015850": {
+      "art": 55015850,
+      "familie": 52601,
+      "fetched_at": "2026-08-15T14:46:16Z",
+      "holders": {
+        "10000403": 1
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 526,
+      "positive_evidence": {
+        "10000403": "Quellen/Nachweise: - Besuch 03/2026 (gesehen, hinter den Kulissen)"
+      },
+      "unmatched": []
+    },
+    "55015851": {
+      "art": 55015851,
+      "familie": 53909,
+      "fetched_at": "2026-08-15T14:46:18Z",
+      "holders": {
+        "10006058": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 539,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015852": {
+      "art": 55015852,
+      "familie": 40326,
+      "fetched_at": "2026-08-15T14:46:19Z",
+      "holders": {
+        "10006006": 0,
+        "10006058": 0
+      },
+      "klasse": 4,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 403,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015853": {
+      "art": 55015853,
+      "familie": 52718,
+      "fetched_at": "2026-08-15T14:46:21Z",
+      "holders": {
+        "10000360": 1
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 527,
+      "positive_evidence": {
+        "10000360": "Quellen/Nachweise: - Besuch 05/2026 (gesehen, hinter den Kulissen)"
+      },
+      "unmatched": []
+    },
+    "55015854": {
+      "art": 55015854,
+      "familie": 550003,
+      "fetched_at": "2026-08-15T14:46:22Z",
+      "holders": {
+        "10006058": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015855": {
+      "art": 55015855,
+      "familie": 550075,
+      "fetched_at": "2026-08-15T14:46:24Z",
+      "holders": {
+        "10006058": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015856": {
+      "art": 55015856,
+      "familie": 550075,
+      "fetched_at": "2026-08-15T14:46:27Z",
+      "holders": {
+        "10006058": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015857": {
+      "art": 55015857,
+      "familie": 550069,
+      "fetched_at": "2026-08-15T14:46:29Z",
+      "holders": {
+        "10006058": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015858": {
+      "art": 55015858,
+      "familie": 550075,
+      "fetched_at": "2026-08-15T14:46:32Z",
+      "holders": {
+        "10006058": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015859": {
+      "art": 55015859,
+      "familie": 550049,
+      "fetched_at": "2026-08-15T14:46:35Z",
+      "holders": {
+        "10006058": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015860": {
+      "art": 55015860,
+      "familie": 54923,
+      "fetched_at": "2026-08-15T14:46:37Z",
+      "holders": {
+        "10006058": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 549,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015861": {
+      "art": 55015861,
+      "familie": 550153,
+      "fetched_at": "2026-08-15T14:46:40Z",
+      "holders": {
+        "10006058": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015862": {
+      "art": 55015862,
+      "familie": 550139,
+      "fetched_at": "2026-08-15T14:46:42Z",
+      "holders": {
+        "10006353": 1
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {
+        "10006353": "hinter den Kulissen in der Prigen Conservation Breeding Ark (PCBA) Quellen/Nachweise: - Besuch 06/2024 (gesehen)"
+      },
+      "unmatched": []
+    },
+    "55015863": {
+      "art": 55015863,
+      "familie": 54103,
+      "fetched_at": "2026-08-15T14:46:45Z",
+      "holders": {
+        "10006353": 1
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 541,
+      "positive_evidence": {
+        "10006353": "hinter den Kulissen in der Prigen Conservation Breeding Ark (PCBA) Quellen/Nachweise: - Besuch 06/2024 (gesehen)"
+      },
+      "unmatched": []
     }
   }
 }
