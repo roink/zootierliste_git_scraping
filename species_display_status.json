@@ -505343,6 +505343,32 @@
         "10006353": "hinter den Kulissen in der Prigen Conservation Breeding Ark (PCBA) Quellen/Nachweise: - Besuch 06/2024 (gesehen)"
       },
       "unmatched": []
+    },
+    "55015868": {
+      "art": 55015868,
+      "familie": 30323,
+      "fetched_at": "2026-08-16T14:40:20Z",
+      "holders": {
+        "10007209": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 303,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015869": {
+      "art": 55015869,
+      "familie": 250179,
+      "fetched_at": "2026-08-16T14:40:21Z",
+      "holders": {
+        "10007209": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 250,
+      "positive_evidence": {},
+      "unmatched": []
     }
   }
 }
