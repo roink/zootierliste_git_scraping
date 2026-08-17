@@ -302741,6 +302741,19 @@
       },
       "unmatched": []
     },
+    "50903350": {
+      "art": 50903350,
+      "familie": 23105,
+      "fetched_at": "2026-08-17T14:45:48Z",
+      "holders": {
+        "10006912": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 231,
+      "positive_evidence": {},
+      "unmatched": []
+    },
     "50903351": {
       "art": 50903351,
       "familie": 30513,
@@ -400274,6 +400287,19 @@
         "10002000": 0,
         "10006542": 0,
         "10006563": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55005062": {
+      "art": 55005062,
+      "familie": 550074,
+      "fetched_at": "2026-08-17T14:45:49Z",
+      "holders": {
+        "10000790": 0
       },
       "klasse": 5,
       "missing_expected_zoo_ids": [],
@@ -505344,6 +505370,19 @@
       },
       "unmatched": []
     },
+    "55015864": {
+      "art": 55015864,
+      "familie": 550030,
+      "fetched_at": "2026-08-17T14:45:51Z",
+      "holders": {
+        "10008379": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
     "55015868": {
       "art": 55015868,
       "familie": 30323,
@@ -505367,6 +505406,51 @@
       "klasse": 2,
       "missing_expected_zoo_ids": [],
       "ordnung": 250,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015870": {
+      "art": 55015870,
+      "familie": 24103,
+      "fetched_at": "2026-08-17T14:45:52Z",
+      "holders": {
+        "10007128": 0,
+        "10007144": 0,
+        "10007209": 0,
+        "10007223": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 241,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015871": {
+      "art": 55015871,
+      "familie": 24103,
+      "fetched_at": "2026-08-17T14:45:54Z",
+      "holders": {
+        "10007293": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [
+        10007245,
+        10007247
+      ],
+      "ordnung": 241,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015872": {
+      "art": 55015872,
+      "familie": 60504,
+      "fetched_at": "2026-08-17T14:45:55Z",
+      "holders": {
+        "10010681": 0
+      },
+      "klasse": 6,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 605,
       "positive_evidence": {},
       "unmatched": []
     }
