@@ -132271,6 +132271,19 @@
       "positive_evidence": {},
       "unmatched": []
     },
+    "21103211": {
+      "art": 21103211,
+      "familie": 21901,
+      "fetched_at": "2026-08-18T14:53:31Z",
+      "holders": {
+        "10007026": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 219,
+      "positive_evidence": {},
+      "unmatched": []
+    },
     "21103212": {
       "art": 21103212,
       "familie": 20607,
@@ -505452,6 +505465,35 @@
       "missing_expected_zoo_ids": [],
       "ordnung": 605,
       "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015878": {
+      "art": 55015878,
+      "familie": 250094,
+      "fetched_at": "2026-08-18T14:53:33Z",
+      "holders": {
+        "10000366": 0,
+        "10007455": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 250,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015879": {
+      "art": 55015879,
+      "familie": 250094,
+      "fetched_at": "2026-08-18T14:53:34Z",
+      "holders": {
+        "10006353": 1
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 250,
+      "positive_evidence": {
+        "10006353": "hinter den Kulissen in der Prigen Conservation Breeding Ark (PCBA) Quellen/Nachweise: - Besuch 06/2024 (gesehen, ausgeschildert) - Besuch 11/2024 (gesehen, ausgeschildert)"
+      },
       "unmatched": []
     }
   }
