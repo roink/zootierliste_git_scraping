@@ -396015,6 +396015,19 @@
       "positive_evidence": {},
       "unmatched": []
     },
+    "55004718": {
+      "art": 55004718,
+      "familie": 550072,
+      "fetched_at": "2026-08-21T14:54:20Z",
+      "holders": {},
+      "klasse": 5,
+      "missing_expected_zoo_ids": [
+        10000948
+      ],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
     "55004719": {
       "art": 55004719,
       "familie": 550072,
@@ -505770,6 +505783,36 @@
       "missing_expected_zoo_ids": [],
       "ordnung": 303,
       "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015887": {
+      "art": 55015887,
+      "familie": 30324,
+      "fetched_at": "2026-08-21T14:54:21Z",
+      "holders": {
+        "10007650": 1
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 303,
+      "positive_evidence": {
+        "10007650": "seit 1997 Zucht (1999, 2000, 2004, 2009, 2010) Zooerstzucht 1999 Quellen/Nachweise: - Besuch 09/2010 (gesehen, hinter den Kulissen)"
+      },
+      "unmatched": []
+    },
+    "55015888": {
+      "art": 55015888,
+      "familie": 10402,
+      "fetched_at": "2026-08-21T14:54:23Z",
+      "holders": {
+        "10000360": 1
+      },
+      "klasse": 1,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 104,
+      "positive_evidence": {
+        "10000360": "seit 2026 Quellen/Nachweise: - Besuch 05/2026 (gesehen, hinter den Kulissen)"
+      },
       "unmatched": []
     }
   }
