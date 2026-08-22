@@ -505814,6 +505814,19 @@
         "10000360": "seit 2026 Quellen/Nachweise: - Besuch 05/2026 (gesehen, hinter den Kulissen)"
       },
       "unmatched": []
+    },
+    "55015889": {
+      "art": 55015889,
+      "familie": 23505,
+      "fetched_at": "2026-08-22T14:39:07Z",
+      "holders": {
+        "10006778": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 235,
+      "positive_evidence": {},
+      "unmatched": []
     }
   }
 }
