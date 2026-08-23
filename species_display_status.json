@@ -324948,6 +324948,19 @@
       "positive_evidence": {},
       "unmatched": []
     },
+    "50905449": {
+      "art": 50905449,
+      "familie": 11306,
+      "fetched_at": "2026-08-23T14:41:19Z",
+      "holders": {
+        "10010366": 0
+      },
+      "klasse": 1,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 113,
+      "positive_evidence": {},
+      "unmatched": []
+    },
     "50905452": {
       "art": 50905452,
       "familie": 250178,
@@ -343595,6 +343608,20 @@
         "10006006": "Quellen/Nachweise: Behind the scenes (08/2026)",
         "10007698": "Off exhibit Quellen/Nachweise: -personal visit 10/2023 (signed, seen) -personal visit 01/2024 (not signed, not seen) -personal communication 01/2024"
       },
+      "unmatched": []
+    },
+    "50906811": {
+      "art": 50906811,
+      "familie": 22308,
+      "fetched_at": "2026-08-23T14:41:20Z",
+      "holders": {
+        "10008864": 0,
+        "10010367": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 223,
+      "positive_evidence": {},
       "unmatched": []
     },
     "50906812": {
