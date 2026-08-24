@@ -942,7 +942,7 @@ zoo_id,zoo_name,country
 10000988,Soltau (Heidepark - Tierhaltung geschlossen seit 2011),Deutschland
 10000990,Kyjiw (Zoopark),Ukraine
 10000991,Fellbach (Wildgehege),Deutschland
-10000992,Overloon (Zoo Parc),Niederlande
+10000992,Overloon (ZooParc),Niederlande
 10000994,Tournai (Musee d Histoire Naturelle),Belgien
 10000995,Vissenbjerg (Terrarium),Dänemark
 10000996,Jeruschalajim (The Tisch Family Zoological Gardens),Israel
@@ -4876,7 +4876,7 @@ zoo_id,zoo_name,country
 10005447,Witzenhausen (Nadermann Erlebnispark Ziegenhagen),Deutschland
 10005448,Wuppertal (Schauaquarium des Biolog. Vereins für Aquarien- und Terrarienkunde Iris - geschlossen),Deutschland
 10005449,Wuppertal (Mömbacher-Tierpark der Gaststätte Zum Grünen Baum - geschlossen),Deutschland
-10005450,Wuppertal (Fuhlrott-Museums - geschlossen),Deutschland
+10005450,Wuppertal (Fuhlrott-Museum - geschlossen),Deutschland
 10005451,Wyk (Aquarium - geschlossen),Deutschland
 10005452,Zarrentin am Schaalsee (Wasserwelt Schaalsee - geschlossen 2002),Deutschland
 10005453,Zeitz (Heimattiergartem im Kulturpark - geschlossen 2003),Deutschland
@@ -10135,3 +10135,13 @@ zoo_id,zoo_name,country
 10011017,Niccone (Alpaca Farm Maridiana),Italien
 10011018,München (Museum Mensch und Natur),Deutschland
 10011019,Arnsberg (Hobby-Zoo Babilon - geschlossen),Deutschland
+10011020,Brijuni (Zoo - vormals Hagenbecks Handelszoo - geschlossen 1996),Kroatien
+10011022,Brijuni (Fazanerija - Koki),Kroatien
+10011023,Suzhou (Aquarium),China
+10011024,Tskhvarichamia (Zoological Center - Bear Sanctuary),Georgien
+10011025,King (Dragonstone Ranch),Vereinigte Staaten von Amerika
+10011026,Bangkok (Siam Serpentarium),Thailand
+10011027,Batam (Batam Zoo Paradise),Indonesien
+10011028,Oral (Children’s Zoo of the Regional Ecological and Biological Centre),Kasachstan
+10011029,Selangor (the MINs at Kota Damansara - geschlossen 2026),Malaysia
+10011030,Selangor (Zoo In Mall - geschlossen 2026),Malaysia
