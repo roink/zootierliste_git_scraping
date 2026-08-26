@@ -8919,7 +8919,7 @@ zoo_id,zoo_name,country
 10009752,Kedah (Langkawi Wildlife Park),Malaysia
 10009754,Kedah (Crocodile Adventureland Langkawi),Malaysia
 10009755,Kedah (Kulim Bird Park),Malaysia
-10009756,Selangor (Zoo In Mall),Malaysia
+10009756,Selangor (Zoo In Mall - geschlossen 2026),Malaysia
 10009759,Selangor (Sunway Lagoon Wildlife Park),Malaysia
 10009760,Kuala Lumpur (Blue Coral Aquarium KL Tower - geschlossen 12/2023),Malaysia
 10009761,Kuala Lumpur (KL Butterfly Park),Malaysia
@@ -9011,7 +9011,7 @@ zoo_id,zoo_name,country
 10009852,Yorii (Saitama River Museum),Japan
 10009853,Yokosuka (Kannonzaki Nature Museum),Japan
 10009854,Putrajaya (Wetlands Park),Malaysia
-10009855,Selangor (the MINs at Kota Damansara),Malaysia
+10009855,Selangor (the MINs at Kota Damansara - geschlossen 2026),Malaysia
 10009856,Selangor (Just Farm Kota Damansara),Malaysia
 10009857,Pahang (Cameron Highlands Butterfly Garden),Malaysia
 10009858,Pahang (Cameron Highlands Butterfly Farm),Malaysia
@@ -10145,3 +10145,5 @@ zoo_id,zoo_name,country
 10011028,Oral (Children’s Zoo of the Regional Ecological and Biological Centre),Kasachstan
 10011029,Selangor (the MINs at Kota Damansara - geschlossen 2026),Malaysia
 10011030,Selangor (Zoo In Mall - geschlossen 2026),Malaysia
+10011031,Surf City (Topsail Aquarium - vormals EMA Touch Tank Aquarium),Vereinigte Staaten von Amerika
+10011032,Burnsville (Sustainable Safari),Vereinigte Staaten von Amerika
