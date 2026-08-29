@@ -186455,6 +186455,19 @@
       "positive_evidence": {},
       "unmatched": []
     },
+    "2222913": {
+      "art": 2222913,
+      "familie": 250065,
+      "fetched_at": "2026-08-29T17:44:05Z",
+      "holders": {
+        "10001485": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 250,
+      "positive_evidence": {},
+      "unmatched": []
+    },
     "2222918": {
       "art": 2222918,
       "familie": 250065,
