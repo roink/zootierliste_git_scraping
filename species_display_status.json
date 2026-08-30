@@ -349244,6 +349244,19 @@
       "positive_evidence": {},
       "unmatched": []
     },
+    "50907343": {
+      "art": 50907343,
+      "familie": 250158,
+      "fetched_at": "2026-08-30T18:04:34Z",
+      "holders": {
+        "10000835": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 250,
+      "positive_evidence": {},
+      "unmatched": []
+    },
     "50907349": {
       "art": 50907349,
       "familie": 21501,
@@ -381027,6 +381040,19 @@
       "positive_evidence": {},
       "unmatched": []
     },
+    "55003869": {
+      "art": 55003869,
+      "familie": 52709,
+      "fetched_at": "2026-08-30T18:04:35Z",
+      "holders": {
+        "10007196": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 527,
+      "positive_evidence": {},
+      "unmatched": []
+    },
     "55003870": {
       "art": 55003870,
       "familie": 52702,
@@ -401499,6 +401525,19 @@
       "positive_evidence": {},
       "unmatched": []
     },
+    "55005160": {
+      "art": 55005160,
+      "familie": 550072,
+      "fetched_at": "2026-08-30T18:04:37Z",
+      "holders": {
+        "10007196": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
     "55005161": {
       "art": 55005161,
       "familie": 550072,
@@ -406290,6 +406329,19 @@
       "klasse": 3,
       "missing_expected_zoo_ids": [],
       "ordnung": 305,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55005583": {
+      "art": 55005583,
+      "familie": 550072,
+      "fetched_at": "2026-08-30T18:04:39Z",
+      "holders": {
+        "10000918": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
       "positive_evidence": {},
       "unmatched": []
     },
@@ -419879,6 +419931,19 @@
       "holders": {
         "10001902": 0,
         "10005505": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55007063": {
+      "art": 55007063,
+      "familie": 550072,
+      "fetched_at": "2026-08-30T18:04:41Z",
+      "holders": {
+        "10007196": 0
       },
       "klasse": 5,
       "missing_expected_zoo_ids": [],
@@ -434611,6 +434676,19 @@
       "positive_evidence": {
         "10000873": "Seit? Vermutlich hinter den Kulissen Bestand 11.05.2021: 0,0,2 Quellen/Nachweise: - Besuch 09/2020 (nicht gesehen, nicht ausgeschildert) Gil&Chris - Besuch 10/2021 (nicht gesehen, nicht ausgeschildert) Gil&Chris - Besuch 04/2025 (nicht gesehen, nicht ausgeschildert) Gil&Chris"
       },
+      "unmatched": []
+    },
+    "55008746": {
+      "art": 55008746,
+      "familie": 550114,
+      "fetched_at": "2026-08-30T18:04:42Z",
+      "holders": {
+        "10007196": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
       "unmatched": []
     },
     "55008750": {
