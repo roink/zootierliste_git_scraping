@@ -506558,6 +506558,19 @@
       "ordnung": 605,
       "positive_evidence": {},
       "unmatched": []
+    },
+    "55015937": {
+      "art": 55015937,
+      "familie": 60504,
+      "fetched_at": "2026-09-02T17:54:39Z",
+      "holders": {
+        "10001810": 0
+      },
+      "klasse": 6,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 605,
+      "positive_evidence": {},
+      "unmatched": []
     }
   }
 }
