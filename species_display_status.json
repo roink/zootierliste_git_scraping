@@ -506597,6 +506597,21 @@
       "ordnung": 605,
       "positive_evidence": {},
       "unmatched": []
+    },
+    "55015938": {
+      "art": 55015938,
+      "familie": 54209,
+      "fetched_at": "2026-09-04T17:36:57Z",
+      "holders": {
+        "10000366": 1
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 542,
+      "positive_evidence": {
+        "10000366": "Quellen/Nachweise: - Besuch 06/2025 (gesehen, hinter den Kulissen)"
+      },
+      "unmatched": []
     }
   }
 }
