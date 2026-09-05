@@ -216394,6 +216394,19 @@
       },
       "unmatched": []
     },
+    "3040502": {
+      "art": 3040502,
+      "familie": 30320,
+      "fetched_at": "2026-09-05T16:49:50Z",
+      "holders": {
+        "10010247": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 303,
+      "positive_evidence": {},
+      "unmatched": []
+    },
     "3040503": {
       "art": 3040503,
       "familie": 30320,
@@ -274273,6 +274286,19 @@
         "10007343": "Kept behind the scenes for breeding Quellen/Nachweise: - May 2, 2023 USDA Inspection Report. - https://www.phoenixzoo.org/blog/animal-updates/most-successful-season-of-endangered-black-footed-ferret-kits-in-20-years-help-us-name-them/ (accessed 01/2024) - May 15, 2024 (filmed) - https://www.youtube.com/watch?v=4kECSv4kpoI (minute 47:41) (Signed but not seen) (Signed as \"Black-footed ferret. Mustela nigripes\")",
         "10008349": "Zucht One on display - behind the scenes breeding and release program Quellen/Nachweise: - Besuch 10/2008"
       },
+      "unmatched": []
+    },
+    "50901332": {
+      "art": 50901332,
+      "familie": 22701,
+      "fetched_at": "2026-09-05T16:49:51Z",
+      "holders": {
+        "10005550": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 227,
+      "positive_evidence": {},
       "unmatched": []
     },
     "50901334": {
@@ -462718,6 +462744,19 @@
       "fetched_at": "2026-08-13T15:55:13Z",
       "holders": {
         "10006209": 0,
+        "10006447": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55011161": {
+      "art": 55011161,
+      "familie": 550134,
+      "fetched_at": "2026-09-05T16:49:53Z",
+      "holders": {
         "10006447": 0
       },
       "klasse": 5,
