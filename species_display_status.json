@@ -134683,6 +134683,19 @@
       "positive_evidence": {},
       "unmatched": []
     },
+    "21103339": {
+      "art": 21103339,
+      "familie": 250094,
+      "fetched_at": "2026-09-11T17:45:13Z",
+      "holders": {
+        "10006251": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 250,
+      "positive_evidence": {},
+      "unmatched": []
+    },
     "21103341": {
       "art": 21103341,
       "familie": 250138,
@@ -175452,6 +175465,19 @@
         }
       ]
     },
+    "2200606": {
+      "art": 2200606,
+      "familie": 24003,
+      "fetched_at": "2026-09-11T17:45:08Z",
+      "holders": {
+        "10006251": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 240,
+      "positive_evidence": {},
+      "unmatched": []
+    },
     "2200607": {
       "art": 2200607,
       "familie": 24003,
@@ -178882,6 +178908,32 @@
         "10008462": 0,
         "10008473": 0,
         "10009335": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 250,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "2221202": {
+      "art": 2221202,
+      "familie": 250122,
+      "fetched_at": "2026-09-11T17:45:10Z",
+      "holders": {
+        "10006251": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 250,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "2221203": {
+      "art": 2221203,
+      "familie": 250122,
+      "fetched_at": "2026-09-11T17:45:11Z",
+      "holders": {
+        "10006251": 0
       },
       "klasse": 2,
       "missing_expected_zoo_ids": [],
@@ -348709,6 +348761,19 @@
         "10000912": 0,
         "10002058": 0,
         "10002255": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 250,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "50907284": {
+      "art": 50907284,
+      "familie": 250072,
+      "fetched_at": "2026-09-11T17:45:15Z",
+      "holders": {
+        "10000386": 0
       },
       "klasse": 2,
       "missing_expected_zoo_ids": [],
