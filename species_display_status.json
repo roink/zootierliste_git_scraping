@@ -506742,6 +506742,110 @@
         "10000366": "Quellen/Nachweise: - Besuch 06/2025 (gesehen, hinter den Kulissen)"
       },
       "unmatched": []
+    },
+    "55015940": {
+      "art": 55015940,
+      "familie": 30336,
+      "fetched_at": "2026-09-12T17:11:31Z",
+      "holders": {
+        "10009795": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 303,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015941": {
+      "art": 55015941,
+      "familie": 40360,
+      "fetched_at": "2026-09-12T17:11:32Z",
+      "holders": {
+        "10009795": 0
+      },
+      "klasse": 4,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 403,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015942": {
+      "art": 55015942,
+      "familie": 52705,
+      "fetched_at": "2026-09-12T17:11:34Z",
+      "holders": {
+        "10000843": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 527,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015943": {
+      "art": 55015943,
+      "familie": 52718,
+      "fetched_at": "2026-09-12T17:11:35Z",
+      "holders": {
+        "10000843": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 527,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015944": {
+      "art": 55015944,
+      "familie": 54203,
+      "fetched_at": "2026-09-12T17:11:37Z",
+      "holders": {
+        "10000843": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 542,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015945": {
+      "art": 55015945,
+      "familie": 52830,
+      "fetched_at": "2026-09-12T17:11:38Z",
+      "holders": {
+        "10000843": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 528,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015947": {
+      "art": 55015947,
+      "familie": 54915,
+      "fetched_at": "2026-09-12T17:11:39Z",
+      "holders": {},
+      "klasse": 5,
+      "missing_expected_zoo_ids": [
+        10006612
+      ],
+      "ordnung": 549,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015948": {
+      "art": 55015948,
+      "familie": 54915,
+      "fetched_at": "2026-09-12T17:11:41Z",
+      "holders": {},
+      "klasse": 5,
+      "missing_expected_zoo_ids": [
+        10006612
+      ],
+      "ordnung": 549,
+      "positive_evidence": {},
+      "unmatched": []
     }
   }
 }
