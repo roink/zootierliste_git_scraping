@@ -80,7 +80,7 @@ zoo_id,zoo_name,country
 10000082,Luckenwalde (Tierpark),Deutschland
 10000083,Groß Schönebeck (Wildpark Schorfheide),Deutschland
 10000084,Wustermark-Elstal (Schaugehege Döberitzer Heide - geschlossen 2016),Deutschland
-10000085,Oranienburg-Germendorf (Tier- und Freizeitpark Eichholz),Deutschland
+10000085,"Oranienburg-Germendorf (Tier-, Freizeit- und Saurierpark - vormals Tier- und Freizeitpark Eichholz)",Deutschland
 10000087,Mallnow (Haus-und Wildtiergarten),Deutschland
 10000088,Liebenwalde (Haustierpark - ehem. Wildpferdgehege Liebenthal),Deutschland
 10000089,Trebbin-Glau (Wildgehege),Deutschland
@@ -10166,3 +10166,129 @@ zoo_id,zoo_name,country
 10011050,Speyer-Spitzenrheinhof (Falknerei Birds of Prey),Deutschland
 10011051,Tbilisi (New Zoo - Caucasian Fauna Exhibition),Georgien
 10011052,Doucier (Parc animalier du Hérisson),Frankreich
+10011053,Luoyang (Guizhentang Biological Park),China
+10011054,Pingxiang (Zoo),China
+10011055,Qintong (Qinhu Bird Garden),China
+10011056,Shunde (Changlu Fairy Tale Animal Kingdom),China
+10011057,Shuanggang (Xiangshui Zoo),China
+10011058,Sishui (Anshan Temple Beast Garden),China
+10011059,Xinhe (Changyu Dongtian Panda House),China
+10011060,Xiangyang (Zoo),China
+10011061,Xiaxian (Zoo),China
+10011062,Yiwu (Chouzhou Park Zoo),China
+10011063,Zhaoqing (Red-crowned Crane Ecological Park),China
+10011064,Zhaotong (World Yi Capital Animal Paradise),China
+10011065,Aswan (Pyramisa Isis Island Resort Mini Zoo),Ägypten
+10011066,El Shorouk (Nemo's Farm),Ägypten
+10011067,Hurghada (New Eagles Aqua Park Resort Mini Zoo),Ägypten
+10011068,Hurghada (SeaGull Beach Resort Mini Zoo),Ägypten
+10011069,Kafr el-Sheikh (Sana'a Garden Zoo),Ägypten
+10011070,Luxor (Banana Island Mini Zoo),Ägypten
+10011071,Wadi El Natrun (Master's Zoo - geschlossen),Ägypten
+10011072,Aïn M'Lila (Zoo and Amusement Park),Algerien
+10011073,Bilstain (Wolfcenter - The Wolf Conservation Association),Belgien
+10011074,Grazen (Hof ter Hoeven),Belgien
+10011075,Heist-op-den-Berg (Kinderboerderij De Bollekeshoef),Belgien
+10011076,Helchteren (Duinenpark Molenheide - vormals Wild- en Wandelpark Molenheide),Belgien
+10011077,Liège (Volière du Parc de la Boverie - geschlossen),Belgien
+10011078,Lier (Kinderboerderij 't Struisvogelnest),Belgien
+10011079,Mont (Parc Les Onays),Belgien
+10011080,Oostduinkerke (NAVIGO Visserijmuseum),Belgien
+10011081,Waremme (Hexapoda - Insectarium Jean Leclercq),Belgien
+10011082,L'Isle-Jourdain (Asinerie d'Embazac - geschlossen 2026),Frankreich
+10011083,Bazas (Ferme pédagogique de Gipon - geschlossen spätestens 2023),Frankreich
+10011084,Angers (Terra Botanica),Frankreich
+10011085,Beaumesnil (Eur'Autruche - geschlossen 2012),Frankreich
+10011086,Beaune (Parc de la Bouzaize),Frankreich
+10011087,Borce (Parc'Ours),Frankreich
+10011088,Beaucaire (Le Vieux Mas),Frankreich
+10011089,Bessan (Cactus Park),Frankreich
+10011090,Bischwiller (Ferme pédagogique du Sonnenhof - vormals Zoo’n Hof - geschlossen 2026),Frankreich
+10011091,Bourré (La Magnanerie - site troglodytique),Frankreich
+10011092,Bouzigues (Ferme Zoo de Bouzigues),Frankreich
+10011093,Ouézy (Ferme pédagogique de Ouézy - vormals Ferme pédagogique de Canon),Frankreich
+10011094,Saint-Michel-de-Chaillol (Ferme pédagogique du GAEC du Caïre),Frankreich
+10011095,Chambost-Longessaigne (Les Lamas et Alpagas de Lafayette),Frankreich
+10011096,Château-Renard (Musée vivant de l’Apiculture Gâtinaise),Frankreich
+10011097,Dampierre-sur-Boutonne (Asinerie du Baudet du Poitou),Frankreich
+10011098,Confrançon (Eurofarm - geschlossen),Frankreich
+10011099,Verneuil-sous-Coucy (Ferme Souchinet),Frankreich
+10011100,Granges-sur-Baume (Jurafaune),Frankreich
+10011101,Dijon (Parc de la Colombière),Frankreich
+10011102,Dompierre-sur-Mer (Asinerie des Varennes),Frankreich
+10011103,Aubonne (Écomusée L’Abeille du Haut-Doubs),Frankreich
+10011104,Altwiller (Parc Nature de Cheval - Cascades et Fantaisies Équestres),Frankreich
+10011105,Arelaune-en-Seine (Caresse de Tigre),Frankreich
+10011106,Brugnac (Le Chaudron Magique),Frankreich
+10011107,Chambeire (Élevage des Alpagas de la Tille),Frankreich
+10011108,Charmes-sur-l'Herbasse (Mille et Une Cornes),Frankreich
+10011109,Choranche (Grotte de Choranche),Frankreich
+10011110,Courcelles (GAEC de l'Altiplano),Frankreich
+10011111,Deux-Chaises (Les Lamas du Tilloux),Frankreich
+10011112,Escalans (Ganadéria de Buros),Frankreich
+10011113,Évreux (Ferme de Navarre),Frankreich
+10011114,Flassans-sur-Issole (Aoubré l'Aventure Nature),Frankreich
+10011115,Gaillefontaine (Une Fée dans l'Asinerie),Frankreich
+10011116,Gambsheim (Passage 309 - Passe à poissons de Gambsheim-Rheinau),Frankreich
+10011117,Gradignan (Parc animalier René Canivenc),Frankreich
+10011118,Gujan-Mestras (La Coccinelle),Frankreich
+10011119,Hyères (Parc Olbius Riquier),Frankreich
+10011120,La Baule-Escoublac (Tropicarium Bonsaï La Baule),Frankreich
+10011121,La Chapelle-Saint-Luc (Parc Pierre Pitois - vormals Parc des Étangs de Fouchy),Frankreich
+10011122,Laurabuc (Ferme pédagogique La Matarelle),Frankreich
+10011123,Le Bugue (Parc Le Bournat),Frankreich
+10011124,Le Caylar (Parc animalier Le Theil),Frankreich
+10011125,Le Grand-Serre (Les Chèvres qui Dansent),Frankreich
+10011126,Le Puy-en-Velay (Jardin Henri Vinay),Frankreich
+10011127,Limoise (Élevage Les Lamas de la Bouble),Frankreich
+10011128,Lormont (Ferme urbaine des Iris),Frankreich
+10011129,Mamirolle (Lama Loisir - Élevage Lama Doubs),Frankreich
+10011130,Marsilly (L'Autruche de Laurette),Frankreich
+10011131,Martigues (Ferme pédagogique du Parc de Figuerolles),Frankreich
+10011132,Mérignac (Ferme de découverte),Frankreich
+10011133,Montbeugny (Hippogriffe),Frankreich
+10011134,Montbrison (Jardin d'Allard),Frankreich
+10011135,Montélimar (Jardin public de Montélimar),Frankreich
+10011136,Montignac-Lascaux (Le Regourdou),Frankreich
+10011137,Névache (La Joie de Vivre - Ferme de Claire),Frankreich
+10011138,Plerguer (La Chèvrerie du Désert),Frankreich
+10011139,Pont-du-Casse (Happy Forest),Frankreich
+10011140,Pouylebon (Ferme de l'Aoueille),Frankreich
+10011141,Réaumont (Ballalama),Frankreich
+10011142,Rhinau (Ferme éducative A.G.F.),Frankreich
+10011143,Saint-Chaptes (Green Park),Frankreich
+10011144,Saint-Florent-sur-Auzonnet (La Caracole),Frankreich
+10011145,Saint-Geniès-des-Mourgues (Teraventure),Frankreich
+10011146,Saint-Jean-de-Fos (Grotte de Clamouse),Frankreich
+10011147,Saint-Julien-aux-Bois (Les Fermes du Moyen Âge de Xaintrie),Frankreich
+10011148,Saint-Lanne (Parc aux Rapaces - Fauconnerie Marche),Frankreich
+10011149,Saint-Laurent-des-Autels (Natural'Parc Zoo-Attractions),Frankreich
+10011150,Sainte-Christine (Ter'Anima - La Dube),Frankreich
+10011151,Sainte-Terre (Jardin de la Lamproie),Frankreich
+10011152,Sallertaine (L'Îlot Zanimo),Frankreich
+10011153,Toulon-sur-Arroux (Diverti'Parc),Frankreich
+10011154,Ungersheim (Parc du Petit Prince),Frankreich
+10011155,Valanjou (Les Cerfs de la Fardellière),Frankreich
+10011156,Valence (Parc Jouvet),Frankreich
+10011157,Velleron (Le Carbet Amazonien),Frankreich
+10011158,Vendargues (Le Petit Paradis de Vendargues),Frankreich
+10011159,Vendays-Montalivet (Au Pays du Médoc Bleu Autruches),Frankreich
+10011160,Verrières (Ferme de La Blaquière),Frankreich
+10011161,Voiron (Jardin de Ville),Frankreich
+10011162,Wasquehal (Ferme Dehaudt),Frankreich
+10011163,Wattrelos (Ferme pédagogique du Parc du Lion),Frankreich
+10011164,Châtelais (La Petite Couère - geschlossen 2025),Frankreich
+10011165,Cuers (Autrucherie du Collobrier - geschlossen),Frankreich
+10011166,Mérenvielle (Bisonnerie de Borde-Basse - geschlossen 2008),Frankreich
+10011167,Montmachoux (L'Autruche Rieuse - geschlossen),Frankreich
+10011168,Poligné (La Halte du Volcan - geschlossen),Frankreich
+10011169,Pompéjac (Parc Pinpin et Pilou - geschlossen 2019),Frankreich
+10011170,Saint-Rémy-de-Salers OT Valette (Scénoparc iO - geschlossen 2009),Frankreich
+10011171,Saint-Thibéry (Zoo Le Nouveau Monde - geschlossen 2020),Frankreich
+10011172,Velaine-en-Haye (Ferme forestière de Haye - geschlossen 2011),Frankreich
+10011173,Bau (Borneo Happy Farm),Malaysia
+10011174,Kluang (UK Farm Agro Resort),Malaysia
+10011175,Lenggeng (Rabbit Fun Land),Malaysia
+10011176,Bau (Turn Red Mini Zoo - geschlossen),Malaysia
+10011177,Kanggye (Zoo),Nordkorea
+10011178,Rajin (Zoo - geschlossen 2006),Nordkorea
