@@ -279587,6 +279587,19 @@
       "positive_evidence": {},
       "unmatched": []
     },
+    "50901751": {
+      "art": 50901751,
+      "familie": 20703,
+      "fetched_at": "2026-09-25T18:37:54Z",
+      "holders": {
+        "10011037": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 207,
+      "positive_evidence": {},
+      "unmatched": []
+    },
     "50901752": {
       "art": 50901752,
       "familie": 40327,
@@ -349861,6 +349874,21 @@
       },
       "unmatched": []
     },
+    "50907394": {
+      "art": 50907394,
+      "familie": 22301,
+      "fetched_at": "2026-09-25T18:37:55Z",
+      "holders": {
+        "10000906": 1
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 223,
+      "positive_evidence": {
+        "10000906": "seit 2026 hinter den Kulissen - 2026: Ex-situ-Zuchtprogramm mit der Ankunft von 18 Exemplaren aus Marokko. Quellen/Nachweise: - Facebook-Seite des Zoos (letzter Zugriff: 15.09.2026)"
+      },
+      "unmatched": []
+    },
     "50907397": {
       "art": 50907397,
       "familie": 250078,
@@ -413830,6 +413858,19 @@
       "positive_evidence": {},
       "unmatched": []
     },
+    "55006305": {
+      "art": 55006305,
+      "familie": 24105,
+      "fetched_at": "2026-09-25T18:37:57Z",
+      "holders": {
+        "10007126": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 241,
+      "positive_evidence": {},
+      "unmatched": []
+    },
     "55006308": {
       "art": 55006308,
       "familie": 40325,
@@ -426886,6 +426927,19 @@
       "positive_evidence": {
         "10001032": "seit 2018 -hinter den Kulissen - 2018: 3,1 aus Privathaltung [Par (Feral Wild Animal Project)/UK] erhalten. - 07/2023: Zugang 1,1 (von Milaiha (Al Bustan Zoological Centre) erhalten) ---- Bestand 01.01.2018: 0,0,0 Bestand 31.12.2018: 3,1,0 Bestand 31.12.2023: 4,2,0 Nachzucht 2023: 0,0,0 Quellen/Nachweise: - TBL: 2018, 2023 - MA 08/2018 ---- - Besuch 09/2018 (nicht gesehen, nicht ausgeschildert) - pers. Mitt. (E-Mail an ZTL v. 19.03.2026)"
       },
+      "unmatched": []
+    },
+    "55007858": {
+      "art": 55007858,
+      "familie": 54303,
+      "fetched_at": "2026-09-25T18:37:58Z",
+      "holders": {
+        "10000920": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 543,
+      "positive_evidence": {},
       "unmatched": []
     },
     "55007859": {
@@ -507509,6 +507563,22 @@
       "positive_evidence": {},
       "unmatched": []
     },
+    "55015976": {
+      "art": 55015976,
+      "familie": 52302,
+      "fetched_at": "2026-09-25T18:37:59Z",
+      "holders": {
+        "10001370": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [
+        10001636,
+        10007872
+      ],
+      "ordnung": 523,
+      "positive_evidence": {},
+      "unmatched": []
+    },
     "55015977": {
       "art": 55015977,
       "familie": 11201,
@@ -507532,6 +507602,123 @@
       "klasse": 2,
       "missing_expected_zoo_ids": [],
       "ordnung": 250,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015979": {
+      "art": 55015979,
+      "familie": 550072,
+      "fetched_at": "2026-09-25T18:38:01Z",
+      "holders": {
+        "10000918": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015980": {
+      "art": 55015980,
+      "familie": 550072,
+      "fetched_at": "2026-09-25T18:38:03Z",
+      "holders": {
+        "10000918": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015981": {
+      "art": 55015981,
+      "familie": 52830,
+      "fetched_at": "2026-09-25T18:38:04Z",
+      "holders": {
+        "10002805": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 528,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015982": {
+      "art": 55015982,
+      "familie": 550072,
+      "fetched_at": "2026-09-25T18:38:06Z",
+      "holders": {
+        "10002805": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015983": {
+      "art": 55015983,
+      "familie": 52831,
+      "fetched_at": "2026-09-25T18:38:08Z",
+      "holders": {
+        "10002805": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 528,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015984": {
+      "art": 55015984,
+      "familie": 550072,
+      "fetched_at": "2026-09-25T18:38:10Z",
+      "holders": {
+        "10002805": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015985": {
+      "art": 55015985,
+      "familie": 550072,
+      "fetched_at": "2026-09-25T18:38:12Z",
+      "holders": {
+        "10002805": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015986": {
+      "art": 55015986,
+      "familie": 55205,
+      "fetched_at": "2026-09-25T18:38:13Z",
+      "holders": {
+        "10006589": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 552,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015987": {
+      "art": 55015987,
+      "familie": 550075,
+      "fetched_at": "2026-09-25T18:38:14Z",
+      "holders": {
+        "10006530": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
       "positive_evidence": {},
       "unmatched": []
     }
