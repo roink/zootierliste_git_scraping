@@ -301133,6 +301133,19 @@
       "positive_evidence": {},
       "unmatched": []
     },
+    "50903202": {
+      "art": 50903202,
+      "familie": 20609,
+      "fetched_at": "2026-09-26T17:45:52Z",
+      "holders": {
+        "10010718": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 206,
+      "positive_evidence": {},
+      "unmatched": []
+    },
     "50903203": {
       "art": 50903203,
       "familie": 20607,
@@ -316369,6 +316382,19 @@
       "klasse": 5,
       "missing_expected_zoo_ids": [],
       "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "50904583": {
+      "art": 50904583,
+      "familie": 250175,
+      "fetched_at": "2026-09-26T17:45:54Z",
+      "holders": {
+        "10007260": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 250,
       "positive_evidence": {},
       "unmatched": []
     },
@@ -507719,6 +507745,45 @@
       "klasse": 5,
       "missing_expected_zoo_ids": [],
       "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015988": {
+      "art": 55015988,
+      "familie": 54306,
+      "fetched_at": "2026-09-26T17:45:55Z",
+      "holders": {
+        "10006530": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 543,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015989": {
+      "art": 55015989,
+      "familie": 54306,
+      "fetched_at": "2026-09-26T17:45:56Z",
+      "holders": {
+        "10006530": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 543,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015991": {
+      "art": 55015991,
+      "familie": 40329,
+      "fetched_at": "2026-09-26T17:45:58Z",
+      "holders": {},
+      "klasse": 4,
+      "missing_expected_zoo_ids": [
+        10007260
+      ],
+      "ordnung": 403,
       "positive_evidence": {},
       "unmatched": []
     }
