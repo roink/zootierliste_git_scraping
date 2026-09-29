@@ -329896,6 +329896,21 @@
       "positive_evidence": {},
       "unmatched": []
     },
+    "50905630": {
+      "art": 50905630,
+      "familie": 30338,
+      "fetched_at": "2026-09-29T19:25:52Z",
+      "holders": {
+        "10000603": 1
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 303,
+      "positive_evidence": {
+        "10000603": "seit 2026 hinter den Kulissen Quellen/Nachweise: - Besuch 09/2026 (gesehen)"
+      },
+      "unmatched": []
+    },
     "50905631": {
       "art": 50905631,
       "familie": 550075,
@@ -428806,6 +428821,19 @@
       "positive_evidence": {},
       "unmatched": []
     },
+    "55008002": {
+      "art": 55008002,
+      "familie": 24408,
+      "fetched_at": "2026-09-29T19:25:53Z",
+      "holders": {
+        "10006324": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 244,
+      "positive_evidence": {},
+      "unmatched": []
+    },
     "55008003": {
       "art": 55008003,
       "familie": 550043,
@@ -508018,6 +508046,19 @@
       "klasse": 5,
       "missing_expected_zoo_ids": [],
       "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55015995": {
+      "art": 55015995,
+      "familie": 11507,
+      "fetched_at": "2026-09-29T19:25:55Z",
+      "holders": {
+        "10011181": 0
+      },
+      "klasse": 1,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 115,
       "positive_evidence": {},
       "unmatched": []
     }
