@@ -455716,6 +455716,19 @@
       "positive_evidence": {},
       "unmatched": []
     },
+    "55010555": {
+      "art": 55010555,
+      "familie": 40380,
+      "fetched_at": "2026-09-30T19:21:37Z",
+      "holders": {
+        "10007036": 0
+      },
+      "klasse": 4,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 403,
+      "positive_evidence": {},
+      "unmatched": []
+    },
     "55010556": {
       "art": 55010556,
       "familie": 40325,
