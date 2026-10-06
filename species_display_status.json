@@ -123965,6 +123965,19 @@
       "positive_evidence": {},
       "unmatched": []
     },
+    "21102884": {
+      "art": 21102884,
+      "familie": 10403,
+      "fetched_at": "2026-10-06T19:32:54Z",
+      "holders": {
+        "10010456": 0
+      },
+      "klasse": 1,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 104,
+      "positive_evidence": {},
+      "unmatched": []
+    },
     "21102888": {
       "art": 21102888,
       "familie": 60504,
@@ -223117,6 +223130,19 @@
       "fetched_at": "2026-08-08T15:23:33Z",
       "holders": {
         "10006329": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 303,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "3041129": {
+      "art": 3041129,
+      "familie": 30344,
+      "fetched_at": "2026-10-06T19:32:53Z",
+      "holders": {
+        "10008491": 0
       },
       "klasse": 3,
       "missing_expected_zoo_ids": [],
@@ -323954,6 +323980,19 @@
       "positive_evidence": {
         "10000313": "seit 2019 - hinter den Kulissen Quellen/Nachweise: - Besuch 11/2022 (während Führung gesehen) - Besuch 07/2023 (gesehen hinter den Kulissen) - Besuch 04/2024 (nicht gesehen, nicht ausgeschildert) - Besuch 08/2024 (nicht gesehen, nicht ausgeschildert) - Besuch 10/2024 (gesehen, hinter den Kulissen - MA 06/2026"
       },
+      "unmatched": []
+    },
+    "50905290": {
+      "art": 50905290,
+      "familie": 250072,
+      "fetched_at": "2026-10-06T19:32:56Z",
+      "holders": {
+        "10008491": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 250,
+      "positive_evidence": {},
       "unmatched": []
     },
     "50905291": {
