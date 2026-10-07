@@ -304070,6 +304070,19 @@
       "positive_evidence": {},
       "unmatched": []
     },
+    "50903419": {
+      "art": 50903419,
+      "familie": 30517,
+      "fetched_at": "2026-10-07T19:59:29Z",
+      "holders": {
+        "10007259": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 305,
+      "positive_evidence": {},
+      "unmatched": []
+    },
     "50903420": {
       "art": 50903420,
       "familie": 30528,
@@ -395022,6 +395035,19 @@
       "missing_expected_zoo_ids": [
         10002177
       ],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55004567": {
+      "art": 55004567,
+      "familie": 550075,
+      "fetched_at": "2026-10-07T19:59:30Z",
+      "holders": {
+        "10006733": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
       "ordnung": 550,
       "positive_evidence": {},
       "unmatched": []
