@@ -348262,6 +348262,21 @@
       "positive_evidence": {},
       "unmatched": []
     },
+    "50907200": {
+      "art": 50907200,
+      "familie": 54209,
+      "fetched_at": "2026-10-08T19:57:43Z",
+      "holders": {
+        "10000366": 1
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 542,
+      "positive_evidence": {
+        "10000366": "2012 bis 201? \"Hazer Gölü\" hinter den Kulissen / Behind the scenes Bestand am 31.12.2011: 0,0,0 Bestand am 31.12.2012: 2,3,12 Bestand am 31.12.2013: 0,0,30 Quellen/Nachweise: - TBL: 2012, 2013 - nicht in TBL 2019 - Besuch 09/2019 (nicht gesehen, nicht ausgeschildert) - Besuch 04/2026 (seen backstage)"
+      },
+      "unmatched": []
+    },
     "50907201": {
       "art": 50907201,
       "familie": 60202,
@@ -440545,6 +440560,19 @@
       "klasse": 2,
       "missing_expected_zoo_ids": [],
       "ordnung": 223,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55009285": {
+      "art": 55009285,
+      "familie": 10810,
+      "fetched_at": "2026-10-08T19:57:44Z",
+      "holders": {
+        "10006171": 0
+      },
+      "klasse": 1,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 108,
       "positive_evidence": {},
       "unmatched": []
     },
