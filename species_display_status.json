@@ -98670,6 +98670,19 @@
       "positive_evidence": {},
       "unmatched": []
     },
+    "2090404": {
+      "art": 2090404,
+      "familie": 20706,
+      "fetched_at": "2026-10-11T18:56:07Z",
+      "holders": {
+        "10006432": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 207,
+      "positive_evidence": {},
+      "unmatched": []
+    },
     "2090405": {
       "art": 2090405,
       "familie": 20706,
@@ -473874,6 +473887,20 @@
       "positive_evidence": {
         "10010343": "Behind the scenes Quellen/Nachweise: - Visit 08/2025 (seen backstage)"
       },
+      "unmatched": []
+    },
+    "55011982": {
+      "art": 55011982,
+      "familie": 40380,
+      "fetched_at": "2026-10-11T18:56:08Z",
+      "holders": {
+        "10006547": 0,
+        "10009830": 0
+      },
+      "klasse": 4,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 403,
+      "positive_evidence": {},
       "unmatched": []
     },
     "55011987": {
