@@ -508744,6 +508744,34 @@
       "ordnung": 403,
       "positive_evidence": {},
       "unmatched": []
+    },
+    "55016035": {
+      "art": 55016035,
+      "familie": 250179,
+      "fetched_at": "2026-10-18T17:23:53Z",
+      "holders": {
+        "10000366": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 250,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55016037": {
+      "art": 55016037,
+      "familie": 52601,
+      "fetched_at": "2026-10-18T17:23:55Z",
+      "holders": {
+        "10002668": 0,
+        "10002673": 0,
+        "10005501": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 526,
+      "positive_evidence": {},
+      "unmatched": []
     }
   }
 }
