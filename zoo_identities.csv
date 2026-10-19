@@ -3038,7 +3038,7 @@ zoo_id,zoo_name,country
 10003532,Bacevac (Mini ZOO Zornica Kuca),Serbien
 10003533,Padej (Mini ZOO - geschlossen),Serbien
 10003534,Crepaja (ZOO vrt 1000 topola),Serbien
-10003535,Vrsac (Banatski safari),Serbien
+10003535,Vrsac (Banatski safari - geschlossen),Serbien
 10003536,Vrsac (Mini ZOO vrt kraj Vrsca - geschlossen),Serbien
 10003537,Donja Toponica (ZOO Modus - geschlossen),Serbien
 10003538,Telford (Exotic Zoo),Vereinigtes Königreich
@@ -3631,8 +3631,8 @@ zoo_id,zoo_name,country
 10004156,Minsk (Centre of Oceanography Otkrytyy Okean),Belarus
 10004157,Minsk (Delfinarium Nemo),Belarus
 10004158,Minsk (Mini-Zoo Karlusha - geschlossen 2014),Belarus
-10004159,Istocno Sarajevo (Mini-Zoo Kula),Bosnien-Herzegowina
-10004160,Omarska (Mini-Zoo on Restaurant Europa),Bosnien-Herzegowina
+10004159,Istocno Sarajevo (Mini-Zoo Kula - geschlossen),Bosnien-Herzegowina
+10004160,Omarska (Mini-Zoo on Restaurant Europa - geschlossen),Bosnien-Herzegowina
 10004161,Suho Polje (Mini-Zoo von Preslica - geschlossen),Bosnien-Herzegowina
 10004162,Ilidža (Zoo Ilidža - geschlossen 1975),Bosnien-Herzegowina
 10004164,Osenovlag (Ostrich Farm Chiflika Nenkovi - geschlossen),Bulgarien
@@ -10359,3 +10359,7 @@ zoo_id,zoo_name,country
 10011243,Wolfville (Hennigar's Farm Market & Park),Kanada
 10011244,Wolfville (Hennigars farm market park),Kanada
 10011245,Wolfville (Hennigars farm market park),Kanada
+10011247,San Marino (Parco Naturale di Montecchio),San Marino
+10011248,Shah Alam (Bukit Jelutong Eco Community Park – Mini Zoo),Malaysia
+10011249,Lomnice (Faunapark),Tschechien
+10011250,Tashkent (Furqat bog'i Minizoo),Usbekistan
