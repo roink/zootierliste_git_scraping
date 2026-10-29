@@ -333961,6 +333961,19 @@
       "positive_evidence": {},
       "unmatched": []
     },
+    "50905937": {
+      "art": 50905937,
+      "familie": 30313,
+      "fetched_at": "2026-10-29T19:38:58Z",
+      "holders": {
+        "10010153": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 303,
+      "positive_evidence": {},
+      "unmatched": []
+    },
     "50905938": {
       "art": 50905938,
       "familie": 21901,
@@ -358978,6 +358991,19 @@
       "positive_evidence": {
         "10002805": "– 11/2025: Not on show Quellen/Nachweise: - pers. Mitt. (E-Mail an ZTL v. 14.09.2021 / nach Webseite)"
       },
+      "unmatched": []
+    },
+    "55003316": {
+      "art": 55003316,
+      "familie": 52603,
+      "fetched_at": "2026-10-29T19:38:59Z",
+      "holders": {
+        "10001454": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 526,
+      "positive_evidence": {},
       "unmatched": []
     },
     "55003317": {
@@ -473189,6 +473215,19 @@
       "positive_evidence": {},
       "unmatched": []
     },
+    "55011905": {
+      "art": 55011905,
+      "familie": 52802,
+      "fetched_at": "2026-10-29T19:39:00Z",
+      "holders": {
+        "10007946": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 528,
+      "positive_evidence": {},
+      "unmatched": []
+    },
     "55011906": {
       "art": 55011906,
       "familie": 550017,
@@ -509139,6 +509178,45 @@
       "klasse": 5,
       "missing_expected_zoo_ids": [],
       "ordnung": 526,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55016066": {
+      "art": 55016066,
+      "familie": 30528,
+      "fetched_at": "2026-10-29T19:39:02Z",
+      "holders": {
+        "10010153": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 305,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55016067": {
+      "art": 55016067,
+      "familie": 550114,
+      "fetched_at": "2026-10-29T19:39:03Z",
+      "holders": {
+        "10007946": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 550,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55016068": {
+      "art": 55016068,
+      "familie": 40210,
+      "fetched_at": "2026-10-29T19:39:05Z",
+      "holders": {
+        "10007946": 0
+      },
+      "klasse": 4,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 402,
       "positive_evidence": {},
       "unmatched": []
     }
