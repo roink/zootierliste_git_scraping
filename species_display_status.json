@@ -509219,6 +509219,45 @@
       "ordnung": 402,
       "positive_evidence": {},
       "unmatched": []
+    },
+    "55016070": {
+      "art": 55016070,
+      "familie": 12107,
+      "fetched_at": "2026-10-31T18:34:32Z",
+      "holders": {
+        "10010370": 0
+      },
+      "klasse": 1,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 121,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55016071": {
+      "art": 55016071,
+      "familie": 10402,
+      "fetched_at": "2026-10-31T18:34:33Z",
+      "holders": {
+        "10010370": 0
+      },
+      "klasse": 1,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 104,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55016072": {
+      "art": 55016072,
+      "familie": 10404,
+      "fetched_at": "2026-10-31T18:34:34Z",
+      "holders": {
+        "10010370": 0
+      },
+      "klasse": 1,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 104,
+      "positive_evidence": {},
+      "unmatched": []
     }
   }
 }
