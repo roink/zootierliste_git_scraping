@@ -509258,6 +509258,33 @@
       "ordnung": 104,
       "positive_evidence": {},
       "unmatched": []
+    },
+    "55016074": {
+      "art": 55016074,
+      "familie": 250060,
+      "fetched_at": "2026-11-01T18:57:01Z",
+      "holders": {
+        "10006018": 0,
+        "10006068": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 250,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55016075": {
+      "art": 55016075,
+      "familie": 250065,
+      "fetched_at": "2026-11-01T18:57:02Z",
+      "holders": {
+        "10006023": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 250,
+      "positive_evidence": {},
+      "unmatched": []
     }
   }
 }
