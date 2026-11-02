@@ -323825,6 +323825,19 @@
       "positive_evidence": {},
       "unmatched": []
     },
+    "50905270": {
+      "art": 50905270,
+      "familie": 250151,
+      "fetched_at": "2026-11-02T22:47:08Z",
+      "holders": {},
+      "klasse": 2,
+      "missing_expected_zoo_ids": [
+        10009181
+      ],
+      "ordnung": 250,
+      "positive_evidence": {},
+      "unmatched": []
+    },
     "50905271": {
       "art": 50905271,
       "familie": 40304,
@@ -405488,6 +405501,21 @@
       },
       "unmatched": []
     },
+    "55005441": {
+      "art": 55005441,
+      "familie": 52601,
+      "fetched_at": "2026-11-02T22:47:09Z",
+      "holders": {
+        "10000371": 1
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 526,
+      "positive_evidence": {
+        "10000371": "Hinter den Kulissen / Behind the scenes Species ID unsure: verification needed Quellen/Nachweise: - https://www.joelsartore.com/fis028-00020/ - Besuch 04/2026 (gesehen? HdK)"
+      },
+      "unmatched": []
+    },
     "55005449": {
       "art": 55005449,
       "familie": 61204,
@@ -411871,6 +411899,19 @@
       "positive_evidence": {
         "10001946": "- Haltung hinter den Kulissen Quellen/Nachweise: - Bestandsliste 02/2026 --- - Besuch 03/2021 (gesehen hinter den Kulissen) - Besuch 10/2021 (nicht gesehen, nicht ausgeschildert) - Besuch 05/2022 (nicht gesehen, nicht ausgeschildert) - Besuch 12/2024 (nicht gesehen, nicht ausgeschildert) - Besuch 12/2025 (nicht gesehen, nicht ausgeschildert)"
       },
+      "unmatched": []
+    },
+    "55005989": {
+      "art": 55005989,
+      "familie": 250138,
+      "fetched_at": "2026-11-02T22:47:11Z",
+      "holders": {
+        "10000680": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 250,
+      "positive_evidence": {},
       "unmatched": []
     },
     "55005990": {
