@@ -184690,6 +184690,21 @@
       "positive_evidence": {},
       "unmatched": []
     },
+    "2222752": {
+      "art": 2222752,
+      "familie": 250151,
+      "fetched_at": "2026-11-04T20:49:31Z",
+      "holders": {
+        "10000835": 1
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 250,
+      "positive_evidence": {
+        "10000835": "Vormalige Haltung Bestand 01.01.1970: 1,0,0 ---- - Haltung hinter den Kulissen (10/2026) Quellen/Nachweise: - TBL 01.01.1970 ---- - Besuch 10/2026 (gesehen)"
+      },
+      "unmatched": []
+    },
     "2222753": {
       "art": 2222753,
       "familie": 250151,
@@ -313406,6 +313421,19 @@
       "klasse": 1,
       "missing_expected_zoo_ids": [],
       "ordnung": 121,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "50904227": {
+      "art": 50904227,
+      "familie": 21901,
+      "fetched_at": "2026-11-04T20:49:32Z",
+      "holders": {
+        "10011256": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 219,
       "positive_evidence": {},
       "unmatched": []
     },
@@ -509324,6 +509352,19 @@
       "klasse": 2,
       "missing_expected_zoo_ids": [],
       "ordnung": 250,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55016080": {
+      "art": 55016080,
+      "familie": 40202,
+      "fetched_at": "2026-11-04T20:49:34Z",
+      "holders": {},
+      "klasse": 4,
+      "missing_expected_zoo_ids": [
+        10006626
+      ],
+      "ordnung": 402,
       "positive_evidence": {},
       "unmatched": []
     }
