@@ -355820,6 +355820,21 @@
       "positive_evidence": {},
       "unmatched": []
     },
+    "50907629": {
+      "art": 50907629,
+      "familie": 54209,
+      "fetched_at": "2026-11-14T19:10:50Z",
+      "holders": {
+        "10000366": 1
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 542,
+      "positive_evidence": {
+        "10000366": "seit 2026 hinter den Kulissen Quellen/Nachweise: - Besuch 11/2026 (gesehen)"
+      },
+      "unmatched": []
+    },
     "50907632": {
       "art": 50907632,
       "familie": 30324,
@@ -428611,6 +428626,19 @@
       "klasse": 3,
       "missing_expected_zoo_ids": [],
       "ordnung": 301,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55007403": {
+      "art": 55007403,
+      "familie": 40210,
+      "fetched_at": "2026-11-14T19:10:51Z",
+      "holders": {
+        "10008114": 0
+      },
+      "klasse": 4,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 402,
       "positive_evidence": {},
       "unmatched": []
     },
@@ -512395,7 +512423,7 @@
     "55015868": {
       "art": 55015868,
       "familie": 30323,
-      "fetched_at": "2026-08-16T14:40:20Z",
+      "fetched_at": "2026-11-14T19:10:54Z",
       "holders": {
         "10007209": 0
       },
@@ -512408,7 +512436,7 @@
     "55015869": {
       "art": 55015869,
       "familie": 250179,
-      "fetched_at": "2026-08-16T14:40:21Z",
+      "fetched_at": "2026-11-14T19:10:56Z",
       "holders": {
         "10007209": 0
       },
@@ -514767,6 +514795,19 @@
       "klasse": 2,
       "missing_expected_zoo_ids": [],
       "ordnung": 250,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55016119": {
+      "art": 55016119,
+      "familie": 30106,
+      "fetched_at": "2026-11-14T19:10:53Z",
+      "holders": {
+        "10003079": 0
+      },
+      "klasse": 3,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 301,
       "positive_evidence": {},
       "unmatched": []
     }
