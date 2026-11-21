@@ -179413,18 +179413,14 @@
     "2220603": {
       "art": 2220603,
       "familie": 250094,
-      "fetched_at": "2026-08-08T14:54:56Z",
-      "holders": {
-        "10000366": 0,
-        "10006353": 1,
-        "10007455": 0
-      },
+      "fetched_at": "2026-11-21T20:32:13Z",
+      "holders": {},
       "klasse": 2,
-      "missing_expected_zoo_ids": [],
+      "missing_expected_zoo_ids": [
+        10006353
+      ],
       "ordnung": 250,
-      "positive_evidence": {
-        "10006353": "UA: R. d. dispar hinter den Kulissen in der Prigen Conservation Breeding Ark (PCBA) Quellen/Nachweise: - Besuch 11/2024 (gesehen, ausgeschildert)"
-      },
+      "positive_evidence": {},
       "unmatched": []
     },
     "2220604": {
@@ -328855,7 +328851,7 @@
     "50905449": {
       "art": 50905449,
       "familie": 11306,
-      "fetched_at": "2026-08-23T14:41:19Z",
+      "fetched_at": "2026-11-21T20:32:15Z",
       "holders": {
         "10010366": 0
       },
@@ -345368,6 +345364,19 @@
       },
       "unmatched": []
     },
+    "50906617": {
+      "art": 50906617,
+      "familie": 250094,
+      "fetched_at": "2026-11-21T20:32:03Z",
+      "holders": {
+        "10009335": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 250,
+      "positive_evidence": {},
+      "unmatched": []
+    },
     "50906621": {
       "art": 50906621,
       "familie": 250158,
@@ -347939,7 +347948,7 @@
     "50906811": {
       "art": 50906811,
       "familie": 22308,
-      "fetched_at": "2026-08-23T14:41:20Z",
+      "fetched_at": "2026-11-21T20:32:16Z",
       "holders": {
         "10008864": 0,
         "10010367": 0
@@ -431717,7 +431726,7 @@
     "55007804": {
       "art": 55007804,
       "familie": 52822,
-      "fetched_at": "2026-08-12T15:43:57Z",
+      "fetched_at": "2026-11-21T20:32:18Z",
       "holders": {
         "10010344": 0
       },
@@ -504840,6 +504849,19 @@
       "positive_evidence": {},
       "unmatched": []
     },
+    "55014750": {
+      "art": 55014750,
+      "familie": 52601,
+      "fetched_at": "2026-11-21T20:32:05Z",
+      "holders": {
+        "10010344": 0
+      },
+      "klasse": 5,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 526,
+      "positive_evidence": {},
+      "unmatched": []
+    },
     "55014751": {
       "art": 55014751,
       "familie": 550139,
@@ -515103,6 +515125,73 @@
       "klasse": 2,
       "missing_expected_zoo_ids": [],
       "ordnung": 241,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55016148": {
+      "art": 55016148,
+      "familie": 23412,
+      "fetched_at": "2026-11-21T20:32:06Z",
+      "holders": {
+        "10006371": 0,
+        "10006372": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 234,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55016150": {
+      "art": 55016150,
+      "familie": 23412,
+      "fetched_at": "2026-11-21T20:32:07Z",
+      "holders": {
+        "10006285": 0,
+        "10010364": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 234,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55016151": {
+      "art": 55016151,
+      "familie": 23412,
+      "fetched_at": "2026-11-21T20:32:09Z",
+      "holders": {
+        "10005017": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 234,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55016152": {
+      "art": 55016152,
+      "familie": 23412,
+      "fetched_at": "2026-11-21T20:32:10Z",
+      "holders": {
+        "10008798": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 234,
+      "positive_evidence": {},
+      "unmatched": []
+    },
+    "55016153": {
+      "art": 55016153,
+      "familie": 23412,
+      "fetched_at": "2026-11-21T20:32:12Z",
+      "holders": {
+        "10008808": 0
+      },
+      "klasse": 2,
+      "missing_expected_zoo_ids": [],
+      "ordnung": 234,
       "positive_evidence": {},
       "unmatched": []
     }
