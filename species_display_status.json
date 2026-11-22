@@ -507905,7 +507905,7 @@
     "55015155": {
       "art": 55015155,
       "familie": 54209,
-      "fetched_at": "2026-08-24T15:01:21Z",
+      "fetched_at": "2026-11-22T20:43:46Z",
       "holders": {
         "10000366": 1
       },
@@ -507913,7 +507913,7 @@
       "missing_expected_zoo_ids": [],
       "ordnung": 542,
       "positive_evidence": {
-        "10000366": "Quellen/Nachweise: - Besuch 06/2025 (gesehen, hinter den Kulissen)"
+        "10000366": "hinter den Kulissen / Behind the scenes Quellen/Nachweise: - Besuch 06/2025 (gesehen, hinter den Kulissen) - Visit 04/2026 (seen backstage)"
       },
       "unmatched": []
     },
@@ -512733,7 +512733,7 @@
     "55015885": {
       "art": 55015885,
       "familie": 550045,
-      "fetched_at": "2026-08-24T15:01:23Z",
+      "fetched_at": "2026-11-22T20:43:47Z",
       "holders": {
         "10002467": 0
       },
@@ -512802,7 +512802,7 @@
     "55015891": {
       "art": 55015891,
       "familie": 11504,
-      "fetched_at": "2026-08-24T15:01:24Z",
+      "fetched_at": "2026-11-22T20:43:49Z",
       "holders": {
         "10010366": 0
       },
